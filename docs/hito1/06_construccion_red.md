@@ -1,5 +1,7 @@
 # Paso 6 – Construcción formal de la red
 
+**Notebook:** `02c_construccion_red` (módulo auxiliar `src/red.py`)
+
 ## Objetivo
 Definir sin ambigüedad qué es el grafo, para la sección 3.2 del artículo.
 

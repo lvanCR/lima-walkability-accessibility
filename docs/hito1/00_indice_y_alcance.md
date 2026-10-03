@@ -31,7 +31,7 @@
 | 3 | `03_carga_y_estructura.md` | `01_descarga_y_limpieza` | Inventario del grafo (nodos, aristas, atributos) |
 | 4 | `04_limpieza.md` | `01_descarga_y_limpieza` | Grafo limpio y proyectado a EPSG:32718 |
 | 5 | `05_poi_y_capas.md` | `02a_poi_descarga_colab` + `02b_poi_integracion` | POI integrados al grafo |
-| 6 | `06_construccion_red.md` | `01`/`02` | Definición formal del grafo y ponderación |
+| 6 | `06_construccion_red.md` | `02c_construccion_red` | Definición formal del grafo y ponderación |
 | 7 | `07_eda_espacial.md` | `03_metricas_y_eda` | Exploración espacial y de atributos |
 | 8 | `08_metricas.md` | `03_metricas_y_eda` | Tabla de métricas globales y locales |
 | 9 | `09_mapas_y_visualizaciones.md` | `03_metricas_y_eda` | Mapas y gráficos preliminares |
