@@ -67,3 +67,7 @@ Correspondencia con la lista mínima del plan (`docs/hito1/09_mapas_y_visualizac
 ### `plots/hito1_08_datos_faltantes.png`
 **Pregunta:** ¿Qué tan completos son los atributos de OSM?
 **Pie:** Porcentaje de aristas sin dato en `name`, `maxspeed` y `lanes` en el grafo limpio. Faltan más datos en San Juan de Miraflores (57 %, 88 % y 78 %) que en Miraflores (43 %, 50 % y 51 %). Los atributos no se imputan: el análisis peatonal usa velocidad de caminata constante y no los necesita.
+
+### `plots/hito1_10_efecto_simplify.png`
+**Pregunta:** ¿Cómo cambia el conteo de nodos al simplificar el grafo?
+**Pie:** Efecto de `simplify=True` sobre los nodos de cada distrito (izquierda) y sobre la densidad de nodos por km² (derecha). La simplificación elimina el 63.8 % de los nodos de Miraflores y el 52.3 % de los de San Juan de Miraflores. Sin simplificar, Miraflores parece 29 % más denso que San Juan de Miraflores (1 150 frente a 889 nodos/km²); simplificado, las densidades son casi iguales (416 frente a 425). Datos del grafo antes de la limpieza.

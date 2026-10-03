@@ -1,0 +1,53 @@
+{
+  "fecha_descarga": "2026-10-03T23:21:52+00:00",
+  "consulta": {
+    "funcion": "ox.graph_from_polygon(simplify=False) + ox.simplify_graph",
+    "lugares": [
+      "Miraflores, Lima, Peru",
+      "San Juan de Miraflores, Lima, Peru"
+    ],
+    "network_type": "walk",
+    "retain_all": true,
+    "buffer_m": 300
+  },
+  "versiones": {
+    "python": "3.13.15",
+    "osmnx": "2.1.1",
+    "networkx": "3.6.1",
+    "geopandas": "1.1.4",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3"
+  },
+  "sin_simplificar": {
+    "nodos": 42545,
+    "aristas": 102158,
+    "longitud media de arista (m)": 24.552997028028706,
+    "longitud total (km, aristas dirigidas / 2)": 1254.1425351946782,
+    "nodos de geometría (street_count = 2)": 24711,
+    "nodos de intersección (street_count >= 3)": 15729,
+    "calles sin salida (street_count = 1)": 2105,
+    "componentes (débiles)": 138
+  },
+  "simplificado": {
+    "nodos": 17787,
+    "aristas": 52642,
+    "longitud media de arista (m)": 47.49998986092818,
+    "longitud total (km, aristas dirigidas / 2)": 1250.2472331294907,
+    "nodos de geometría (street_count = 2)": 202,
+    "nodos de intersección (street_count >= 3)": 15480,
+    "calles sin salida (street_count = 1)": 2105,
+    "componentes (débiles)": 123
+  },
+  "nodos_por_distrito": {
+    "sin_simplificar": {
+      "San Juan de Miraflores": 19617,
+      "Fuera (buffer)": 12069,
+      "Miraflores": 10859
+    },
+    "simplificado": {
+      "San Juan de Miraflores": 9367,
+      "Fuera (buffer)": 4492,
+      "Miraflores": 3928
+    }
+  }
+}
