@@ -1,0 +1,123 @@
+{
+  "fecha_descarga": "2026-10-03T22:02:41+00:00",
+  "consulta": {
+    "funcion": "ox.features_from_polygon",
+    "lugares": [
+      "Miraflores, Lima, Peru",
+      "San Juan de Miraflores, Lima, Peru"
+    ],
+    "buffer_poi_m": 1200,
+    "buffer_grafo_m": 300,
+    "crs_buffer": "EPSG:32718",
+    "etiquetas": {
+      "salud": {
+        "amenity": [
+          "hospital",
+          "clinic"
+        ],
+        "healthcare": [
+          "hospital",
+          "clinic",
+          "centre"
+        ]
+      },
+      "educacion": {
+        "amenity": [
+          "school"
+        ]
+      },
+      "mercados": {
+        "amenity": [
+          "marketplace"
+        ],
+        "shop": [
+          "supermarket"
+        ]
+      },
+      "parques": {
+        "leisure": [
+          "park"
+        ]
+      },
+      "barreras": {
+        "railway": [
+          "rail"
+        ],
+        "waterway": [
+          "river",
+          "canal"
+        ],
+        "highway": [
+          "motorway",
+          "trunk"
+        ]
+      }
+    }
+  },
+  "versiones": {
+    "python": "3.13.15",
+    "osmnx": "2.1.1",
+    "networkx": "3.6.1",
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3"
+  },
+  "resultado": {
+    "elementos_por_capa": {
+      "salud": 126,
+      "educacion": 748,
+      "mercados": 205,
+      "parques": 971,
+      "barreras": 180
+    },
+    "layers_gpkg": {
+      "salud_multipolygon": 1,
+      "salud_point": 47,
+      "salud_polygon": 78,
+      "educacion_point": 449,
+      "educacion_polygon": 299,
+      "mercados_multipolygon": 1,
+      "mercados_point": 52,
+      "mercados_polygon": 152,
+      "parques_multipolygon": 3,
+      "parques_point": 4,
+      "parques_polygon": 964,
+      "barreras_linestring": 180
+    },
+    "elementos_por_capa_y_zona": {
+      "salud": {
+        "Zona ampliada (300–1200 m)": 52,
+        "Miraflores": 30,
+        "San Juan de Miraflores": 24,
+        "Buffer (≤ 300 m)": 20
+      },
+      "educacion": {
+        "Zona ampliada (300–1200 m)": 331,
+        "San Juan de Miraflores": 292,
+        "Miraflores": 63,
+        "Buffer (≤ 300 m)": 62
+      },
+      "mercados": {
+        "Zona ampliada (300–1200 m)": 103,
+        "San Juan de Miraflores": 51,
+        "Miraflores": 30,
+        "Buffer (≤ 300 m)": 21
+      },
+      "parques": {
+        "Zona ampliada (300–1200 m)": 458,
+        "San Juan de Miraflores": 271,
+        "Buffer (≤ 300 m)": 128,
+        "Miraflores": 114
+      },
+      "barreras": {
+        "Miraflores": 63,
+        "Buffer (≤ 300 m)": 48,
+        "Zona ampliada (300–1200 m)": 43,
+        "San Juan de Miraflores": 26
+      }
+    },
+    "archivo": "poi_osm.gpkg",
+    "sha256": "94adf307cebbf79c4a418b4eb7be8fb878c25140092dff824c2df56d6a00deae"
+  }
+}

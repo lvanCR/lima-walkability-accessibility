@@ -11,3 +11,4 @@ video/*
 notebooks/cache/
 cache/
 data/processed/*.gpkg
+!data/raw/poi_descarga_log.json
