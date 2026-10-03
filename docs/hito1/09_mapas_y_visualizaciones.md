@@ -26,3 +26,7 @@ Cada mapa debe tener: **escala, flecha de norte, leyenda, título, paleta adecua
 
 ## Entregable
 Figuras finales numeradas y con pie de figura listo para el artículo y la presentación.
+
+## Estado
+
+Completado. Las figuras están en `figures/` y su catálogo, con la pregunta que responde cada una y su pie de figura, en `figures/CATALOGO.md`. Se generan en `03_metricas_y_eda` y `03b_mapas_hito1`. La figura 2 (red por tipo de vía) y la 3 (POI sobre la red) se presentan juntas en `eda_01_red_por_tipo_via.png`. No se encontraron ferrocarriles ni ríos en OSM dentro de la zona, por lo que las barreras físicas del mapa del área de estudio son solo vías rápidas.
