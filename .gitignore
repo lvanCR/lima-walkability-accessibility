@@ -10,3 +10,4 @@ video/*
 !data/raw/descarga_log.json
 notebooks/cache/
 cache/
+data/processed/*.gpkg

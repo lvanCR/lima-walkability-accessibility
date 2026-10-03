@@ -1,0 +1,4 @@
+paso,nodos,aristas,componentes,Δ nodos,Δ aristas
+Grafo crudo,17834,52768,112,0,0
+Componente principal por distrito,17265,51638,2,-569,-1130
+Sin bucles ni paralelas,17265,51216,2,0,-422
