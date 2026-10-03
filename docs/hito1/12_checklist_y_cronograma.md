@@ -61,3 +61,15 @@ Estado al cierre del trabajo técnico del Hito 1. `[x]` = hecho y verificado; `[
 | Diapositivas y exposición | | |
 | Video | | |
 | Push del repositorio y acceso al docente | | |
+
+---
+
+## Verificación de reproducibilidad
+
+Se hizo en una **copia limpia del repositorio y un entorno virtual nuevo** (Python 3.12.2) con `pip install -r requirements.txt` (versiones exactas):
+
+- Los notebooks `02b`, `02c`, `03` y `03b` se ejecutaron de principio a fin sin errores (unos 2.5 minutos en total).
+- La sección de carga, inventario, limpieza y comparación de `simplify` de `01` se volvió a ejecutar partiendo del grafo crudo: el grafo limpio se regeneró con los mismos 17 265 nodos y 51 216 aristas, y `limpieza_registro.csv` salió idéntico.
+- Las siete tablas de resultados (`poi_snap`, `poi_resumen`, `metricas_globales`, `metricas_nodos`, `metricas_error_betweenness`, `eda_comparacion_distritos` y `datos_faltantes_por_distrito`) salieron **idénticas** a las del repositorio (comparación con 6 decimales), lo que confirma que la semilla fija y el entorno bastan para reproducir los números.
+
+**Alcance:** se partió de los archivos descargados de OSM guardados en `data/raw`. No se repitieron las descargas (`01` celdas de descarga, `01b`, `02a`), que requieren Overpass y devolverían datos distintos si OSM cambió; para eso están el log y el hash de cada archivo.
