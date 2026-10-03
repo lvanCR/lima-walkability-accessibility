@@ -33,3 +33,7 @@ Descarga con `ox.features_from_polygon(poligono, tags)`.
 
 ## Riesgos
 - OSM puede tener pocos hospitales; puede ser necesario incluir centros de salud para tener un análisis útil. Decidir el criterio y justificarlo.
+
+## Decisión sobre el borde (registrada)
+
+Los POI se descargaron con buffer de 1 200 m, pero el grafo llega solo a 300 m. En el Hito 1 se **mantiene el grafo de 300 m** y solo se integran los POI de los distritos y su buffer; el resto queda fuera del grafo. La evaluación de ampliar el grafo está en `docs/hito2/01_nota_ampliar_grafo.md`.
