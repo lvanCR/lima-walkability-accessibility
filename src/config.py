@@ -17,3 +17,5 @@ WALK_SPEED_KMH = 4.8
 ISOCHRONE_MINUTES = [5, 10, 15]
 POI_TYPES = ["hospital", "school", "marketplace"]
 DISTRICT_LABELS = ["Miraflores", "San Juan de Miraflores"]
+
+POI_BUFFER_M = 1200      # zona ampliada de descarga de POI (15 min a pie)

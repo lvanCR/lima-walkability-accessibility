@@ -1,6 +1,6 @@
 # Paso 5 – POI y capas complementarias
 
-**Notebook:** `02_poi_y_capas`
+**Notebooks:** `02a_poi_descarga_colab` (descarga en Colab, zona de POI de 1 200 m) y `02b_poi_integracion` (integración local al grafo)
 
 ## Objetivo
 Incorporar el equipamiento urbano y el contexto territorial, e integrarlos espacialmente al grafo.
