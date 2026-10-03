@@ -25,5 +25,9 @@ Dejar por escrito qué territorio se analiza y por qué es pertinente para el te
 Sección "Área de estudio" para la presentación y para el artículo (3.1 Datos).
 
 ## Pendiente
-- [ ] Obtener polígonos de límites distritales (OSM vía `geocode_to_gdf`) y confirmar que coinciden con el límite oficial.
-- [ ] Decidir si el análisis trata los dos distritos como un solo grafo o como dos subgrafos comparables (propuesta: un solo grafo descargado con límite unido, y etiqueta de distrito por nodo).
+- [x] Obtener polígonos de límites distritales (OSM vía `geocode_to_gdf`). La comparación con el límite oficial no se hizo; las áreas obtenidas son 9.45 km² (Miraflores) y 22.06 km² (SJM).
+- [x] Decidir si el análisis trata los dos distritos como un solo grafo o como dos subgrafos: se descargan en una sola consulta y se analizan como **dos redes independientes**, con etiqueta de distrito por nodo (ver «Estado»).
+
+## Estado
+
+Completado. **Decisión final:** Miraflores y San Juan de Miraflores no son contiguos (Surco queda entre ambos), por lo que se tratan como **dos redes independientes** (un componente por distrito), descargadas en una sola consulta con `retain_all=True` y analizadas por distrito. La propuesta inicial de un solo grafo conectado quedó descartada al comprobar que `retain_all=False` descartaba Miraflores entera. Mapa en `figures/maps/hito1_01_area_estudio.png`. Pendiente por el equipo: confirmar en el aula virtual que el área no está asignada a otro grupo.

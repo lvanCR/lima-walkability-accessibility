@@ -25,3 +25,7 @@ Qué diferencias aparecen entre distritos, qué parece anómalo y qué hipótesi
 
 ## Entregable
 Figuras en `figures/plots/` y `figures/maps/` y un resumen de 5–8 hallazgos.
+
+## Estado
+
+Completado en `03` (secciones 1 a 7) y `03b`. Tabla comparativa en `data/processed/eda_comparacion_distritos.csv`.

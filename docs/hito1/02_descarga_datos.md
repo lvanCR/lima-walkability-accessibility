@@ -28,3 +28,7 @@ Obtener el grafo peatonal desde OpenStreetMap y dejar un respaldo que haga el tr
 
 ## Criterio de aceptación
 El notebook, ejecutado desde cero, produce el mismo archivo (o uno con fecha distinta claramente registrada).
+
+## Estado
+
+Completado en `01`, `01b` y `02a`. Se usó `retain_all=True` y una verificación de cobertura que falla si algún distrito queda sin nodos. Las descargas se hicieron en Google Colab, porque desde el equipo local la API Overpass agotaba el tiempo de conexión.

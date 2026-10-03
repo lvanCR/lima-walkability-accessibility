@@ -26,3 +26,7 @@ Grafo de un solo componente (o justificación documentada), todo en EPSG:32718, 
 ## Resultado sobre `simplify=True`
 
 Medido con una descarga sin simplificar de la misma zona (`01b_efecto_simplify_colab`, resultado en `data/raw/simplify_comparacion.json`): los nodos pasan de 42 545 a 17 787 (−58.2 %) y las aristas de 102 158 a 52 642 (−48.5 %); se eliminan casi todos los nodos de geometría y se conservan las intersecciones y la longitud total de vía. El conteo sin simplificar no es comparable entre distritos (Miraflores parece 29 % más denso; simplificado, la razón es 0.98). Detalle y conclusiones en la sección final de `01_descarga_y_limpieza`.
+
+## Estado
+
+Completado en `01`. Decisión: los nodos del buffer no se recortan; se etiquetan `Fuera (buffer)` y se usan solo para el ruteo, para limitar el efecto de borde. Registro en `data/processed/limpieza_registro.csv`.

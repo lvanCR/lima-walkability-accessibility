@@ -27,3 +27,7 @@ Definir sin ambigüedad qué es el grafo, para la sección 3.2 del artículo.
 
 ## Entregable
 Texto formal (media página) y un diagrama simple nodo/arista/POI para la presentación.
+
+## Estado
+
+Completado en `02c`. Grafo simple y simétrico, ponderado por tiempo de caminata a 4.8 km/h.

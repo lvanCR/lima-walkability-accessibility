@@ -33,5 +33,9 @@
 - Verificar que las métricas dependientes de escala estén normalizadas por área o número de nodos.
 
 ## Entregable
-- `data/processed/metricas_globales.csv` y `metricas_nodos.gpkg`.
+- `data/processed/metricas_globales.csv` y `metricas_nodos.csv`.
 - Tabla comparativa Miraflores vs SJM para las diapositivas.
+
+## Estado
+
+Completado en `03` (sección 8). Las métricas de caminos (longitud media, diámetro, circuity, eficiencia y cercanía) se calcularon **exactas sobre todos los pares** de nodos y no por muestreo; solo la intermediación es aproximada (`k = 500`), con el error medido contra la exacta de Miraflores.

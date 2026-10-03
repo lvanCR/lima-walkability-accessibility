@@ -38,6 +38,7 @@
 | 10 | `10_pipeline_metodologico.md` | – | Diagrama y descripción del pipeline |
 | 11 | `11_exposicion_y_video.md` | – | Guion, diapositivas y video |
 | 12 | `12_checklist_y_cronograma.md` | – | Checklist contra la rúbrica |
+| 13 | `13_resumen_de_resultados.md` | – | Cifras clave y fuentes para el informe |
 
 ## Decisiones ya tomadas
 

@@ -21,3 +21,7 @@ Cargar el grafo desde disco (no desde la API) y entender qué contiene antes de 
 
 ## Nota
 Los atributos con listas (`highway`, `name`, etc.) aparecen cuando la simplificación fusiona segmentos; hay que normalizarlos en el paso de limpieza.
+
+## Estado
+
+Completado en `01` (inventario de estructura, componentes, tipos de vía y datos faltantes).

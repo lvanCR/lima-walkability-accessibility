@@ -1,51 +1,63 @@
-# Paso 12 – Checklist contra la rúbrica y cronograma
+# Paso 12 – Checklist contra la rúbrica
 
-## Checklist por criterio (aplicado al Hito 1)
+Estado al cierre del trabajo técnico del Hito 1. `[x]` = hecho y verificado; `[ ]` = pendiente (indicando de quién). Se apunta la evidencia de cada punto.
 
-### Construcción y calidad del dato (15 %)
-- [ ] Área justificada.
-- [ ] Grafo ≥ 3 000 nodos y ≥ 6 000 aristas.
-- [ ] `network_type='walk'` justificado.
-- [ ] Proyección a EPSG:32718 verificada.
-- [ ] Al menos una capa de POI/polígonos integrada al grafo.
-- [ ] Limpieza documentada (antes/después).
+## Construcción y calidad del dato (15 %)
+- [x] Área justificada: `01_area_estudio.md`, figura `hito1_01_area_estudio`.
+- [x] Grafo ≥ 3 000 nodos y ≥ 6 000 aristas: 17 265 nodos y 51 216 aristas (`01`, verificación final con `assert`).
+- [x] `network_type='walk'` justificado: `01_area_estudio.md` y `02c`.
+- [x] Proyección a EPSG:32718 verificada: razón longitud proyectada / `length` entre 0.995 y 1.001 (`01`).
+- [x] Capa de POI integrada al grafo: 583 POI en 527 nodos (`02b`, `02c`).
+- [x] Limpieza documentada (antes → después): `data/processed/limpieza_registro.csv`.
 
-### Rigor en el análisis de red (30 %)
-- [ ] Métricas globales y locales calculadas correctamente.
-- [ ] Normalización por área o nº de nodos.
-- [ ] Betweenness aproximada: `k` declarado, semilla fija y discusión del error.
-- [ ] Efecto de `simplify=True` explicado.
-- [ ] Porcentaje de datos faltantes reportado y tratamiento explicado.
+## Rigor en el análisis de red (30 %)
+- [x] Métricas globales y locales: `03` sección 8; tablas en `data/processed/metricas_*.csv`.
+- [x] Normalización por área o nº de nodos: `03` sección 3 y `eda_comparacion_distritos.csv`. Las centralidades de cercanía e intermediación dependen del tamaño y se comparan por patrón, no por valor (declarado).
+- [x] Intermediación aproximada: `k = 500`, semilla 42, ponderada por longitud y error medido contra la exacta (Spearman 0.989).
+- [x] Efecto de `simplify=True` explicado con una descarga sin simplificar: sección final de `01`, `data/raw/simplify_comparacion.json`.
+- [x] Porcentaje de datos faltantes reportado y tratamiento explicado: `hito1_08_datos_faltantes`, `datos_faltantes_por_distrito.csv`.
+- [x] Validaciones: tiempo vs. longitud en `02c`; cobertura de ambos distritos y recarga del grafo en `01`.
 
-### Visualización y cartografía (15 %)
-- [ ] Mapas con escala, norte, leyenda y fuente.
-- [ ] Paletas coherentes.
-- [ ] Pie de figura interpretativo.
+## Visualización y cartografía (15 %)
+- [x] Mapas con escala, norte, leyenda y fuente (`src/mapas.py`); 11 figuras a 200 dpi (comprobado en `03b`).
+- [x] Pie de figura interpretativo para cada una: `figures/CATALOGO.md`.
+- [ ] Legibilidad en escala de grises: **no se verificó** (paletas usadas: viridis, YlOrRd, rojo-amarillo-verde en la isócrona, y categóricas para tipo de vía).
 
-### Interpretación y explicabilidad (20 %)
-- [ ] Hallazgos conectados con la teoría del curso (redes espaciales, planaridad, ausencia de hubs, small-world).
-- [ ] Limitaciones declaradas (topografía, completitud OSM, efecto de borde).
+## Interpretación y explicabilidad (20 %)
+- [x] Hallazgos conectados con la teoría del curso (redes espaciales planares, ausencia de hubs, mundo pequeño, circuity, eficiencia): notebooks `03` y `13_resumen_de_resultados.md`.
+- [x] Limitaciones declaradas: efecto de borde, velocidad constante, completitud de OSM, dos redes independientes, intermediación aproximada (`13_resumen_de_resultados.md` §8).
+- [ ] Redacción de la discusión en el informe: **a cargo del equipo**.
 
-### Reproducibilidad y código (10 %)
-- [ ] Notebooks ejecutables de principio a fin.
-- [ ] `requirements.txt` actualizado con versiones.
-- [ ] Semilla fija.
-- [ ] Grafo exportado + log + hash.
-- [ ] Repositorio Git compartido con el docente.
+## Reproducibilidad y código (10 %)
+- [x] Entorno documentado con versiones exactas: `requirements.txt`.
+- [x] Semilla fija (42) en `src/config.py`.
+- [x] Grafo exportado con fecha, consulta, versiones y SHA-256: `data/raw/*_log.json`.
+- [x] Código reutilizable en `src/` y parámetros en un único archivo (`config.py`).
+- [x] Ejecución desde cero en un entorno limpio: ver la sección «Verificación de reproducibilidad» más abajo.
+- [ ] Subir el repositorio a GitHub (`git push`) y compartirlo con el docente: **a cargo del equipo** (todos los commits están en local).
+- [ ] El notebook `01` mezcla celdas de Colab (descarga) y locales (limpieza): documentado en `README.md` y en el pipeline; si el docente exige un notebook que corra de principio a fin sin Colab, habría que ejecutarlo en Colab completo.
 
-### Comunicación (10 %)
-- [ ] Exposición de 10 min ensayada.
-- [ ] Video de 10 min grabado.
+## Comunicación (10 %)
+- [ ] Exposición de 10 min: **a cargo del equipo**.
+- [ ] Video de 10 min: **a cargo del equipo**.
+- Material de apoyo: `figures/CATALOGO.md`, `docs/hito1/13_resumen_de_resultados.md` y `figures/plots/hito1_11_pipeline.png`.
 
-## Cronograma (fechas por definir con el calendario del curso)
-| Etapa | Pasos | Responsable | Fecha |
-|---|---|---|---|
-| Preparación y confirmación del área | 1 | | |
-| Descarga y limpieza | 2–4 | | |
-| POI y construcción de la red | 5–6 | | |
-| EDA y métricas | 7–8 | | |
-| Mapas y figuras | 9 | | |
-| Pipeline, diapositivas y guion | 10–11 | | |
-| Video y entrega | 11–12 | | |
+---
 
-> Completar responsables y fechas una vez conocida la fecha de entrega del Hito 1.
+## Pendientes antes de entregar
+
+1. Confirmar en el aula virtual que el área (Miraflores + San Juan de Miraflores) no está asignada a otro grupo.
+2. Redactar el informe del Hito 1 (plantilla del enunciado) en `reports/hito1/`.
+3. Preparar la exposición y grabar el video.
+4. `git push` y dar acceso al docente.
+5. Repartir responsabilidades y fechas entre los tres integrantes (tabla siguiente).
+
+## Cronograma y responsables (por completar por el equipo)
+
+| Etapa | Responsable | Fecha |
+|---|---|---|
+| Confirmación del área | | |
+| Informe del Hito 1 | | |
+| Diapositivas y exposición | | |
+| Video | | |
+| Push del repositorio y acceso al docente | | |

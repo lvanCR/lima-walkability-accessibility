@@ -27,3 +27,7 @@ Comunicación = 10 % de la nota. Aplica a la exposición en clase y al video.
 
 ## Entregable
 Diapositivas, guion con tiempos por integrante y video final.
+
+## Estado
+
+A cargo del equipo (se elabora manualmente). Los materiales de apoyo son `figures/CATALOGO.md` (figuras con pie) y `13_resumen_de_resultados.md` (cifras clave).
