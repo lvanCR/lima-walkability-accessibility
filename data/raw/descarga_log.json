@@ -1,0 +1,33 @@
+{
+  "fecha_descarga": "2026-10-03T21:32:14+00:00",
+  "consulta": {
+    "funcion": "ox.graph_from_polygon",
+    "lugares": [
+      "Miraflores, Lima, Peru",
+      "San Juan de Miraflores, Lima, Peru"
+    ],
+    "network_type": "walk",
+    "simplify": true,
+    "buffer_m": 300,
+    "crs_buffer": "EPSG:32718"
+  },
+  "versiones": {
+    "python": "3.13.15",
+    "osmnx": "2.1.1",
+    "networkx": "3.6.1",
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3"
+  },
+  "grafo_crudo": {
+    "archivo": "walk_graph_raw.graphml",
+    "nodos": 11465,
+    "aristas": 34682,
+    "sha256": "859fa636df21363b574a1fdd5f8c1979f796d0117f8b110cd22c30c05464a825"
+  },
+  "limites": {
+    "archivo": "limites_distritos.gpkg",
+    "sha256": "24bcfab7c477cfb8657489fe80fb7ca47fdd83e557fe738f2054cd922c8b25ef"
+  }
+}

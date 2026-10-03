@@ -7,3 +7,6 @@ data/interim/*
 !data/*/.gitkeep
 video/*
 !video/.gitkeep
+!data/raw/descarga_log.json
+notebooks/cache/
+cache/
