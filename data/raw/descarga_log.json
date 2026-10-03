@@ -1,5 +1,5 @@
 {
-  "fecha_descarga": "2026-10-03T21:32:14+00:00",
+  "fecha_descarga": "2026-10-03T21:50:17+00:00",
   "consulta": {
     "funcion": "ox.graph_from_polygon",
     "lugares": [
@@ -8,6 +8,7 @@
     ],
     "network_type": "walk",
     "simplify": true,
+    "retain_all": true,
     "buffer_m": 300,
     "crs_buffer": "EPSG:32718"
   },
@@ -22,12 +23,18 @@
   },
   "grafo_crudo": {
     "archivo": "walk_graph_raw.graphml",
-    "nodos": 11465,
-    "aristas": 34682,
-    "sha256": "859fa636df21363b574a1fdd5f8c1979f796d0117f8b110cd22c30c05464a825"
+    "nodos": 17834,
+    "aristas": 52768,
+    "componentes_debiles": 112,
+    "nodos_por_distrito": {
+      "San Juan de Miraflores": 9367,
+      "Fuera (buffer)": 4539,
+      "Miraflores": 3928
+    },
+    "sha256": "32ea579d862a9b372905e3881c2b2278908407fdb4bb83b0a657dded43e5f36e"
   },
   "limites": {
     "archivo": "limites_distritos.gpkg",
-    "sha256": "24bcfab7c477cfb8657489fe80fb7ca47fdd83e557fe738f2054cd922c8b25ef"
+    "sha256": "ad431d8e650c39decedd5539ba0c3df582824f41ececd2f6eca87fc677fe4cc5"
   }
 }
