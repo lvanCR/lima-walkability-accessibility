@@ -19,3 +19,5 @@ POI_TYPES = ["hospital", "school", "marketplace"]
 DISTRICT_LABELS = ["Miraflores", "San Juan de Miraflores"]
 
 POI_BUFFER_M = 1200      # zona ampliada de descarga de POI (15 min a pie)
+SNAP_MAX_M = 100        # POI a más de esta distancia de su nodo más cercano se marcan como no válidos
+DEDUP_M = 100           # radio para considerar duplicado un POI con el mismo nombre

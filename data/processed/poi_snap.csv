@@ -1,0 +1,589 @@
+capa,categoria,name,element,id,zona,nodo_osmid,distrito_nodo,dist_snap_m,snap_valido,x,y
+salud,clinic,Centro Medico Municipal Santa Cruz,way,436746393,Miraflores,11644794463,Miraflores,17.92425978508489,True,276925.7,8660565.6
+salud,clinic,Policlinico Bazan,way,437652757,San Juan de Miraflores,11218904289,San Juan de Miraflores,20.029743712401654,True,286782.2,8654890.6
+salud,hospital,Centro de Atencion Primaria Essalud,way,437642241,San Juan de Miraflores,4356247038,San Juan de Miraflores,44.97284053131156,True,285673.1,8654497.0
+salud,clinic,Entromedic,way,437511288,San Juan de Miraflores,1839133820,San Juan de Miraflores,29.743688580912448,True,285267.3,8655654.0
+salud,clinic,,way,437349942,Buffer (≤ 300 m),262573758,Fuera (buffer),24.258163646209493,True,279778.7,8660072.4
+salud,clinic,Bedias,way,437342816,San Juan de Miraflores,1412832090,San Juan de Miraflores,16.700711145540765,True,285234.9,8656730.9
+salud,clinic,Hospital de la Mujer,way,436944015,Buffer (≤ 300 m),11579686269,Fuera (buffer),34.284039849509746,True,280187.4,8659439.4
+salud,clinic,Médico Municipal de Santa Cruz,way,436746394,Miraflores,11644794489,Miraflores,19.6951845750379,True,276889.7,8660377.3
+salud,clinic,Medical Assistant,way,436736900,Buffer (≤ 300 m),9509809346,Fuera (buffer),32.69013619256051,True,281780.5,8659111.6
+salud,clinic,Clinica Miraflores,way,434795525,Miraflores,2534008512,Miraflores,18.39800408510724,True,280869.8,8658568.5
+salud,clinic,Resocentro,way,436635842,Miraflores,138851445,Miraflores,29.87074391567282,True,279088.1,8660830.4
+salud,clinic,Clinica del INCA,way,436592962,Miraflores,5436280947,Miraflores,34.509536913512484,True,280237.4,8658241.6
+salud,clinic,Quiromedic,way,436456603,Miraflores,108238967,Miraflores,30.981744436514173,True,277946.9,8659400.7
+salud,clinic,Centro de Especialidades Medicas y Osteoporosis,way,436456545,Miraflores,377065821,Miraflores,41.449835890950894,True,281839.7,8658481.8
+salud,clinic,Centro Cardiologico Mispireta,way,435710342,Miraflores,10941248181,Miraflores,19.190328095688546,True,278791.9,8660607.8
+salud,clinic,ROE Laboratorio Clínico,way,435690072,Miraflores,262577854,Miraflores,18.45585517832821,True,278281.5,8659785.2
+salud,clinic,Pediatras Asociados,way,435669483,Miraflores,108234781,Fuera (buffer),52.50104359708428,True,278449.3,8660555.8
+salud,clinic,Nuevo Instituto Médico Miraflores,way,435655331,Miraflores,12823475971,Miraflores,25.12178712912403,True,279064.8,8660711.5
+salud,clinic,Medical Center,way,435326888,Miraflores,140342734,Miraflores,18.548877209067733,True,279531.8,8657759.2
+salud,hospital,Policlínico Suárez,way,1499461722,Miraflores,262572574,Miraflores,48.549513848903835,True,279369.6,8660499.8
+salud,clinic,Insituto Médico de Lenguaje y Aprendizaje,way,1413605209,Buffer (≤ 300 m),440194135,Fuera (buffer),20.535444879586517,True,282044.0,8658712.6
+salud,clinic,,way,1333389498,Buffer (≤ 300 m),11393204064,Fuera (buffer),17.231838742331778,True,278054.3,8660598.2
+salud,clinic,Clínica Anglo Americana,way,1333389497,Buffer (≤ 300 m),4485590984,Miraflores,43.32991315989668,True,278068.2,8660539.6
+salud,clinic,,way,1333389496,Buffer (≤ 300 m),11393204064,Fuera (buffer),46.067131840110704,True,278083.2,8660593.4
+salud,clinic,,way,1333389495,Buffer (≤ 300 m),134380224,Fuera (buffer),26.990493690247046,True,278092.6,8660620.0
+salud,clinic,,way,1333367863,Buffer (≤ 300 m),11393204064,Fuera (buffer),37.687293202087595,True,278072.7,8660608.7
+salud,clinic,,way,1333367862,Buffer (≤ 300 m),134380226,Fuera (buffer),24.61720833486715,True,278141.8,8660576.0
+salud,clinic,Centro de Salud Santa Cruz de Miraflores,way,836194026,Miraflores,3245705917,Miraflores,24.584835098054995,True,278340.6,8659487.6
+salud,clinic,Centro de Salud Materno Infantil Surquillo,way,632613747,Buffer (≤ 300 m),4347745930,Fuera (buffer),54.37397618605078,True,279930.1,8659536.5
+salud,hospital,Hospital José Casimiro Ulloa,way,618688385,Miraflores,263635945,Miraflores,60.66817524535277,True,280412.7,8658477.0
+salud,centre,Puesto de salud Héroes Del Pacifico,way,572221794,San Juan de Miraflores,4283165299,San Juan de Miraflores,38.491124848045274,True,287013.6,8653578.8
+salud,clinic,Clinica,way,513966226,Buffer (≤ 300 m),3344060505,Fuera (buffer),21.273663572519588,True,287148.8,8651460.8
+salud,clinic,Santa María,way,512413235,San Juan de Miraflores,10824451642,San Juan de Miraflores,36.490281932087406,True,287220.6,8658135.4
+salud,clinic,Policlinico San Juan,way,455610176,San Juan de Miraflores,6428764767,San Juan de Miraflores,33.0798285622481,True,284707.5,8654251.6
+salud,clinic,,way,440660348,Miraflores,1273550318,Miraflores,27.99069815313134,True,279758.5,8657997.3
+salud,clinic,Radioncologia,way,435209227,Buffer (≤ 300 m),262908950,Fuera (buffer),63.99883720251129,True,279320.5,8661433.2
+salud,clinic,Clinica Neuroquirurgica Alvarez,way,434777192,Miraflores,377065821,Miraflores,60.72646134675122,True,281864.3,8658472.7
+salud,hospital,Hospital de Especialidades Quirurgicas San Juan de Miraflores,way,1525966280,San Juan de Miraflores,5502363634,San Juan de Miraflores,58.65712681284347,True,285665.9,8654601.0
+salud,hospital,Hospital Municipal Surco Salud,way,391969601,Buffer (≤ 300 m),13356939058,Fuera (buffer),34.4541660764896,True,284106.5,8656287.4
+salud,clinic,CardioClinic,way,434737326,Miraflores,6064907473,Miraflores,34.57008365084062,True,281224.4,8658570.2
+salud,hospital,Hospital María Auxiliadora,way,160691934,San Juan de Miraflores,11218904265,San Juan de Miraflores,28.85392241480579,True,286907.7,8654863.7
+salud,clinic,Policlínico Los Próceres,way,316240452,Buffer (≤ 300 m),1273790417,Fuera (buffer),23.141942224977765,True,283947.7,8655999.2
+salud,clinic,Clínica Good Hope,way,406006942,Miraflores,10751791080,Miraflores,38.86717356173806,True,278570.5,8658713.2
+salud,clinic,Centro de Salud Trébol Azul,way,424832552,San Juan de Miraflores,4242051247,San Juan de Miraflores,14.58287523626937,True,286096.7,8653025.5
+salud,clinic,Hospital de La Humanidad Sur,way,429401693,San Juan de Miraflores,10205831911,San Juan de Miraflores,15.78935139350242,True,286838.6,8655017.6
+salud,hospital,Hospital III Suarez Angamos,way,431592740,Miraflores,6128881830,Miraflores,28.90688645173702,True,279269.2,8660091.1
+salud,clinic,Clínica Delgado,way,405565200,Miraflores,4506892231,Miraflores,42.163098898245416,True,278733.9,8660115.1
+salud,hospital,Hospital Central FAP,way,431593693,Miraflores,11108799121,Miraflores,39.79748357181789,True,279066.4,8661146.1
+salud,clinic,Cristo Medic,node,4356444936,San Juan de Miraflores,1273785394,San Juan de Miraflores,43.159337248662744,True,285597.7,8654441.1
+salud,clinic,Renova Salud,node,4433073625,San Juan de Miraflores,10205831911,San Juan de Miraflores,17.203979900881514,True,286839.6,8655011.9
+salud,clinic,,node,4868532921,Miraflores,258374867,Miraflores,30.661078052313492,True,279053.5,8659419.7
+salud,clinic,Ortopedica,node,4347902805,Buffer (≤ 300 m),5973169743,Miraflores,22.954174600088503,True,280370.4,8659364.4
+salud,clinic,Centro de Salud San Isidro,node,4077392666,Buffer (≤ 300 m),4077392842,Fuera (buffer),28.096675163144504,True,276327.6,8660788.6
+salud,clinic,shubell,node,4346228894,San Juan de Miraflores,1573127447,San Juan de Miraflores,29.63184574432292,True,285266.1,8655108.0
+salud,clinic,Clínica de Reumatismo,node,4344633308,Miraflores,6127177144,Miraflores,21.174277102195106,True,279075.4,8658849.7
+salud,clinic,Oncosalud,node,4326822809,Miraflores,4326822804,Miraflores,19.2920542823665,True,281510.0,8658520.0
+salud,clinic,Crucero,node,4249561589,Miraflores,12833896221,Miraflores,10.640044723765792,True,277008.5,8660158.0
+salud,clinic,Puesto de Salud Villa Solidaridad,node,4134425766,San Juan de Miraflores,4134425765,San Juan de Miraflores,28.479552556904945,True,286822.0,8654125.6
+salud,clinic,Clínica Oftalmológica Divino Niño Jesús,node,4059009984,San Juan de Miraflores,4446995954,San Juan de Miraflores,11.115046792223701,True,285144.6,8653695.2
+salud,clinic,Policlinico Solidario San Juan de Miraflores,node,1904508029,San Juan de Miraflores,2761622764,San Juan de Miraflores,46.487824612296805,True,285277.6,8654819.0
+salud,clinic,Psicóloga,node,5010414066,San Juan de Miraflores,4202662417,San Juan de Miraflores,19.65367061580367,True,286418.0,8657163.9
+salud,clinic,Posta de Saud Valle Sharon,node,7072950120,San Juan de Miraflores,1273690643,San Juan de Miraflores,20.133687279026066,True,286055.9,8653763.1
+salud,clinic,Inspira Sonrisas,node,8625869406,Miraflores,12814404571,Miraflores,20.265245071408575,True,278689.1,8659376.3
+salud,clinic,Policlinico Sagrada Familia,node,7947754879,San Juan de Miraflores,1273584633,San Juan de Miraflores,25.78873032221255,True,285724.6,8653399.3
+salud,clinic,Medi Clinic,node,7129698885,Miraflores,197658845,Miraflores,38.75134883119449,True,278547.1,8659370.6
+salud,clinic,"Centro de Salud Militar ""SAN Juan""",node,7072950123,San Juan de Miraflores,1273967379,San Juan de Miraflores,37.55048742937562,True,285331.3,8654313.9
+salud,clinic,Jesus Poderoso,node,7072946162,San Juan de Miraflores,1752671921,San Juan de Miraflores,19.723405044085858,True,287660.1,8658249.3
+salud,clinic,Laboratorio San Diego,node,5010414219,San Juan de Miraflores,3238752136,San Juan de Miraflores,25.209298828057484,True,285397.7,8655705.1
+salud,clinic,Clínica Oftalmológica Ñahui,node,6833287285,Buffer (≤ 300 m),4351422460,Fuera (buffer),39.772863245146624,True,279712.3,8660067.0
+salud,clinic,Clínica Santa Martha del Sur,node,6696066081,San Juan de Miraflores,1273818567,San Juan de Miraflores,29.574646958828787,True,286138.3,8654639.3
+salud,clinic,Clínica Santa María,node,6571278172,Buffer (≤ 300 m),263939365,Fuera (buffer),65.68004995720676,True,279471.2,8661191.7
+salud,clinic,Clinica Internacional Oncología Rimac,node,5741876922,Miraflores,4259470980,Miraflores,10.931835149413892,True,278776.1,8660609.7
+salud,clinic,Sanna,node,5436573621,Buffer (≤ 300 m),263924515,Fuera (buffer),33.9248225280718,True,280794.3,8659815.7
+salud,clinic,Quiromasajes Santa Cruz,node,5253237421,Miraflores,6122456803,Miraflores,19.63781126785942,True,278533.6,8659640.4
+educacion,school,Institución Educativa San Francisco,way,435680650,Miraflores,262574916,Miraflores,63.45335614147685,True,279024.1,8659867.3
+educacion,school,Colegio Quimico Farmaceutico Departamental de Lima,way,435695418,Miraflores,11579725778,Miraflores,31.82383760849709,True,278583.4,8659664.1
+educacion,school,Institución Educativa Hosanna,way,435710201,Miraflores,197658843,Miraflores,61.72979356347211,True,278575.8,8659042.8
+educacion,school,Colegio la Reparacion,way,435710655,Miraflores,10581092819,Miraflores,27.80406999726736,True,278797.7,8659352.1
+educacion,school,I.E.P. Mater Purissima,way,435714871,Miraflores,197669377,Miraflores,38.545046226189925,True,277919.2,8659178.7
+educacion,school,Institución Educativa Adviento De Miraflores,way,435840498,Miraflores,108180344,Miraflores,27.411298867478056,True,278989.2,8660408.6
+educacion,school,Institución Educativa Santa Rita De Casia,way,436480477,Miraflores,4451151126,Miraflores,40.253449479575785,True,281419.6,8658368.2
+educacion,school,,way,436616060,Buffer (≤ 300 m),386146857,Fuera (buffer),31.22475370351751,True,281066.4,8658179.8
+educacion,school,Institución Educativa Maria De Las Mercedes,way,436624256,Miraflores,10686852974,Miraflores,66.28718012954845,True,281250.7,8658324.7
+educacion,school,Institución Educativa Americano Miraflores,way,435685824,Miraflores,10703100333,Miraflores,39.841570140621116,True,278503.7,8659406.7
+educacion,school,Institución Educativa 7001 Andres Bello,way,435672280,Miraflores,262575175,Miraflores,51.381455694368924,True,279382.5,8660006.7
+educacion,school,Institución Educativa Nuestra Señora Del Carmen,way,436771617,Miraflores,11001163911,Miraflores,36.6907271058412,True,279958.3,8658523.6
+educacion,school,Institución Educativa San Ignacio De Loyola,way,435556541,Miraflores,3247349679,Miraflores,35.080286836271945,True,279180.0,8659656.4
+educacion,school,Institución Educativa Mater Purissima,way,426053338,Miraflores,5970608064,Miraflores,17.365806877225648,True,278018.9,8659153.0
+educacion,school,Institución Educativa 7014 Vasil Levski,way,427550249,Buffer (≤ 300 m),12138988355,Fuera (buffer),22.067116177367122,True,281975.1,8659167.0
+educacion,school,Colegio Nuestra Señora del Carmen-Carmelitas,way,434684561,Miraflores,263617506,Miraflores,45.83220048834791,True,280673.0,8658661.5
+educacion,school,Colegio Ilvem,way,434735704,Miraflores,10747671954,Miraflores,17.97353491571705,True,281069.5,8658600.8
+educacion,school,Institución Educativa Nuestra Señora Del Carmen,way,434802017,Miraflores,11393256545,Miraflores,52.23109595046218,True,280679.5,8658689.9
+educacion,school,Institución Educativa Medalla De Maria,way,435187667,Miraflores,10800975137,Miraflores,17.56901540048563,True,277775.1,8659639.3
+educacion,school,Institución Educativa 7008 Scipion Llona,way,435187671,Miraflores,4553201081,Miraflores,49.092631173613796,True,277837.9,8659623.7
+educacion,school,Escuela Adventista,way,435338676,Miraflores,262570744,Miraflores,55.34874221212731,True,278361.8,8660241.5
+educacion,school,Institución Educativa Miraflores,way,435338678,Miraflores,12823208578,Miraflores,23.363577595424445,True,278361.2,8660189.9
+educacion,school,Instituto Superior Tecnologico Santa Rosa,way,435369096,San Juan de Miraflores,4332861977,San Juan de Miraflores,31.064551788960852,True,284667.6,8651794.4
+educacion,school,Institución Educativa Privada American Children,way,435380528,San Juan de Miraflores,9332210293,San Juan de Miraflores,34.19010431582157,True,284565.3,8652172.7
+educacion,school,Headway College,way,435553864,Miraflores,4593444735,Miraflores,20.988546158095303,True,278972.6,8660848.7
+educacion,school,Colegio Santander,way,435555975,Miraflores,262572359,Miraflores,23.69782290816297,True,278986.0,8660765.7
+educacion,school,Institución Educativa 7701 Nuestra Señora Del Carmen,way,436732540,Buffer (≤ 300 m),391018364,Fuera (buffer),51.03043738581567,True,280097.2,8657716.2
+educacion,school,Centro de Educación Especial Especial 4,way,436779673,Miraflores,5352750936,Miraflores,31.08601103267562,True,281960.7,8658688.8
+educacion,school,Colegio Cristiana Bilingüe Gadol,way,437471879,San Juan de Miraflores,4090464895,San Juan de Miraflores,20.322695459572788,True,286577.7,8655296.2
+educacion,school,Norbert Wiener,way,437476552,Buffer (≤ 300 m),1273702406,Fuera (buffer),28.81254962218995,True,286927.3,8655577.7
+educacion,school,Colegio Particular John Napier,way,437493086,San Juan de Miraflores,5466527242,San Juan de Miraflores,19.60273362839013,True,286548.6,8653935.3
+educacion,school,Institución Educativa 7041 Virgen De La Merced,way,437493562,San Juan de Miraflores,4355980745,San Juan de Miraflores,46.99099395206311,True,286898.2,8654173.6
+educacion,school,Colegio Saco Oliveros,way,437498050,San Juan de Miraflores,5497838350,San Juan de Miraflores,24.889133915259727,True,286534.3,8653696.5
+educacion,school,"I.E. 7208 ""El Pacífico""",way,437504609,San Juan de Miraflores,1273884742,San Juan de Miraflores,38.58194682891987,True,287000.5,8653535.5
+educacion,school,,way,437627036,San Juan de Miraflores,1573383232,San Juan de Miraflores,18.847453832160728,True,285847.3,8654470.3
+educacion,school,I.E. N° 6096 Antonio Raimondi,way,437627046,San Juan de Miraflores,10028245860,San Juan de Miraflores,42.35200259653522,True,286236.9,8654287.0
+educacion,school,"I.E.N° 7063 ""Andrés Avelino Cáceres""",way,437636779,San Juan de Miraflores,1273533801,San Juan de Miraflores,45.65392159498296,True,285243.9,8654104.1
+educacion,school,Colegio Manuel Ramirez Barinaga,way,437642243,San Juan de Miraflores,4356165907,San Juan de Miraflores,113.90702571651688,False,285467.5,8654964.2
+educacion,school,Institución Educativa Javier Heraud,way,437642244,San Juan de Miraflores,5718758187,San Juan de Miraflores,70.51463320857916,True,285343.2,8654811.6
+educacion,school,I.E.I.P. Gral Belisario Suarez,way,437646495,San Juan de Miraflores,10941415275,San Juan de Miraflores,17.55827196819304,True,286991.7,8653771.4
+educacion,school,I.E.P. Ingenius,way,437659639,San Juan de Miraflores,1836158956,San Juan de Miraflores,16.57572729703473,True,287044.7,8653814.5
+educacion,school,I.E.P. El Carmelino,way,437659645,San Juan de Miraflores,1753032250,San Juan de Miraflores,15.86173758361537,True,286993.7,8653739.0
+educacion,school,Institución Educativa America,way,437475491,Buffer (≤ 300 m),6302529021,Fuera (buffer),18.899855121265126,True,286962.9,8655503.7
+educacion,school,"I.E. N° 7060 ""Mariscal Andrés Avelino Cáceres""",way,437462525,San Juan de Miraflores,3774381492,San Juan de Miraflores,41.33580626909734,True,286456.8,8655787.3
+educacion,school,Institución Educativa Norbert Wiener,way,437461605,Buffer (≤ 300 m),1273885491,Fuera (buffer),12.475704957395262,True,286995.7,8655436.4
+educacion,school,"I.E. 6046 ""Virgen de Fátima""",way,437322974,San Juan de Miraflores,7952831205,San Juan de Miraflores,37.49543681116931,True,285402.9,8656267.1
+educacion,school,Institución Educativa Cesar Vallejo,way,437332813,San Juan de Miraflores,4452603077,San Juan de Miraflores,58.406559392169605,True,285075.6,8656288.8
+educacion,school,Institución Educativa 6034 Cesar Carbonell Rodriguez,way,437333726,San Juan de Miraflores,1273716545,San Juan de Miraflores,35.22999070572105,True,285012.5,8656605.4
+educacion,school,I.E. 6097 Mateo Pumacahua,way,437347217,Buffer (≤ 300 m),4357667562,Fuera (buffer),37.63381054097564,True,284514.8,8651457.7
+educacion,school,"I.E. N° 6054 ""Dolores Cavero de Grau""",way,437354356,San Juan de Miraflores,1273606382,San Juan de Miraflores,56.6359663770877,True,285910.1,8655747.5
+educacion,school,Colegio Fé y Alegria N°3,way,437357153,San Juan de Miraflores,13797745324,San Juan de Miraflores,41.3500344839896,True,285693.5,8656120.0
+educacion,school,"I.E. 7069 ""Cesár Vallejo""",way,437359950,San Juan de Miraflores,1410761921,San Juan de Miraflores,44.45638417760978,True,285218.0,8655989.0
+educacion,school,"I.E. N° 7067 ""Toribio Seminario""",way,437361575,San Juan de Miraflores,4207804818,San Juan de Miraflores,56.92620141161399,True,284796.7,8656040.6
+educacion,school,Colegio Divino Niño,way,437364934,San Juan de Miraflores,7952839176,San Juan de Miraflores,21.437898484899705,True,286022.2,8655570.4
+educacion,school,Institución Educativa 6003 Rebeca Carrion Cachot,way,331053902,Miraflores,10800984756,Miraflores,30.66996763707064,True,277545.5,8659936.4
+educacion,school,Colegio Santa María,way,362696900,San Juan de Miraflores,1727287641,San Juan de Miraflores,15.286655956619494,True,287028.7,8654414.5
+educacion,school,C.E.T.P.P. Villa Jardín,way,370796977,Buffer (≤ 300 m),1273963335,Fuera (buffer),93.29409362635955,True,287351.1,8654246.7
+educacion,school,C.E.B.E. Medalla Milagrosa,way,370796978,Buffer (≤ 300 m),1273963335,Fuera (buffer),104.82385256600588,False,287392.1,8654260.3
+educacion,school,I.E. N° 7076 Las Brisas de Villa,way,371234553,Buffer (≤ 300 m),1826854024,Fuera (buffer),51.160414660608865,True,285110.3,8650823.5
+educacion,school,Institución Educativa N° 6037 Inca Pachacútec,way,371382146,San Juan de Miraflores,1273454024,San Juan de Miraflores,73.83612442387809,True,286368.4,8655464.3
+educacion,school,Institución Educativa 6082 Los Próceres,way,317138030,Buffer (≤ 300 m),3224296277,Fuera (buffer),41.320182966231734,True,284023.4,8655933.0
+educacion,school,Institución Educativa Maria Reina Marianistas,way,291982881,Buffer (≤ 300 m),108234781,Fuera (buffer),82.99781274200167,True,278387.3,8660657.6
+educacion,school,Institución Educativa Alexander von Humboldt,way,33750036,Miraflores,387416528,Miraflores,68.19158039546085,True,282037.2,8658529.4
+educacion,school,Colegio de La Inmaculada,way,52967820,Buffer (≤ 300 m),5720885055,San Juan de Miraflores,255.01302651542392,False,285207.7,8658020.4
+educacion,school,San Silvestre School,way,129904656,Miraflores,108237811,Miraflores,60.284989871790074,True,277940.7,8659836.9
+educacion,school,Institución Educativa La Inmaculada Concepcion,way,149309364,Buffer (≤ 300 m),440191853,Fuera (buffer),63.9194781641236,True,282483.6,8658552.1
+educacion,school,Institución Educativa 7079 Ramiro Priale Priale,way,159080839,San Juan de Miraflores,4394276763,San Juan de Miraflores,54.401184466644615,True,286710.7,8652107.2
+educacion,school,I.E. N° 7062 Naciones Unidas,way,271259216,San Juan de Miraflores,1412832198,San Juan de Miraflores,56.335012804729615,True,285096.7,8655360.4
+educacion,school,Institución Educativa San Jose De Cluny,way,289515439,Buffer (≤ 300 m),10717803609,Fuera (buffer),67.03986782172296,True,279419.0,8661192.7
+educacion,school,Institución Educativa Inmaculado Corazon,way,289710224,Miraflores,108237813,Miraflores,61.879003701335115,True,278114.5,8660057.8
+educacion,school,Institución Educativa St. George's College,way,289711795,Miraflores,12816806662,Miraflores,40.031201125711604,True,280884.4,8658953.9
+educacion,school,Institución Educativa Innova Schools,way,371830803,Buffer (≤ 300 m),4394285414,Fuera (buffer),33.863568152657216,True,286814.9,8651445.8
+educacion,school,"I.E. N° 7209 ""Virgen de las Mercedes",way,371830804,San Juan de Miraflores,4648414883,San Juan de Miraflores,34.64401474127264,True,286621.9,8651598.4
+educacion,school,"I.E. N° 7230 ""Las Flores de Villa""",way,372285782,San Juan de Miraflores,1809564474,San Juan de Miraflores,52.3972064911665,True,284967.2,8651545.0
+educacion,school,I.E. San Juan,way,406814258,San Juan de Miraflores,1573382666,San Juan de Miraflores,70.70030444739128,True,285997.0,8654938.8
+educacion,school,I.E. Júlio César Escobar,way,406814276,San Juan de Miraflores,7949063436,San Juan de Miraflores,51.850824367915976,True,285152.3,8654694.3
+educacion,school,"I.E. 7211 ""La Inmaculada""",way,407396076,San Juan de Miraflores,4469198956,San Juan de Miraflores,38.31270199816338,True,286466.5,8652547.3
+educacion,school,"I.E. 7223 ""Miguel Colina Marie""",way,419790516,San Juan de Miraflores,9750364574,San Juan de Miraflores,37.43187170245732,True,284558.8,8655639.6
+educacion,school,Colegio Fermín Tangüis,way,419790529,San Juan de Miraflores,4394276529,San Juan de Miraflores,58.6713845023006,True,284857.5,8655455.2
+educacion,school,"I.E. N° 7061 ""Los Héroes de San Juan""",way,419790530,San Juan de Miraflores,4090464919,San Juan de Miraflores,59.57424718679698,True,285004.0,8655399.5
+educacion,school,Escuela,way,420327033,San Juan de Miraflores,4202662427,San Juan de Miraflores,25.559708475162207,True,286440.7,8657006.4
+educacion,school,"CEBE ""Rvda. Madre Mariana Carrigan""",way,420426039,San Juan de Miraflores,4203543326,San Juan de Miraflores,54.99572696836698,True,286137.9,8657145.1
+educacion,school,"I.E. 7035 ""Leoncio Prado""",way,420426068,San Juan de Miraflores,4202662473,San Juan de Miraflores,37.36717121116102,True,286725.1,8657740.7
+educacion,school,Colegio Privado Cristina Beatriz,way,420426084,San Juan de Miraflores,4203543878,San Juan de Miraflores,55.06604863264587,True,286703.2,8658067.1
+educacion,school,Institución Educativa 7003 Manuel Fernando Bonilla,way,406014243,Miraflores,10806586187,Miraflores,11.598658301687587,True,279500.7,8659356.0
+educacion,school,"I.E. 7210 ""Santa Ursula""",way,372294582,San Juan de Miraflores,4394276720,San Juan de Miraflores,47.62822265060651,True,286252.6,8652664.8
+educacion,school,Institución Educativa 7095 Peru Italia,way,372660496,Buffer (≤ 300 m),3762100995,Fuera (buffer),33.10883308633729,True,286910.5,8651233.7
+educacion,school,"I.E. N° 7101-623 ""América""",way,375164664,San Juan de Miraflores,4332963528,San Juan de Miraflores,58.12067063574058,True,284660.8,8652282.8
+educacion,school,Institución Educativa 7219 Aristoteles,way,375554179,San Juan de Miraflores,1723583959,San Juan de Miraflores,23.685104572624322,True,287019.6,8652087.0
+educacion,school,Institución Educativa 7229 La Merced De Lima,way,375564154,San Juan de Miraflores,4353244160,San Juan de Miraflores,107.57480564215273,False,286877.4,8652454.8
+educacion,school,,way,385021673,Buffer (≤ 300 m),4077392631,Fuera (buffer),19.375523727562086,True,276433.8,8660686.6
+educacion,school,Institución Educativa Inicial Nº 42 Elizabeth Espejo de Marroquín,way,436940001,Buffer (≤ 300 m),263923754,Fuera (buffer),42.842701121482456,True,280671.3,8659483.1
+educacion,school,Institución Educativa Federico Villareal,way,837263125,Miraflores,13005582436,Miraflores,12.098438723413757,True,281805.1,8658778.1
+educacion,school,Institución Educativa 7235 Mariscal Andres Avelino Caceres,way,878480635,Buffer (≤ 300 m),5446286026,Fuera (buffer),24.65014570183126,True,287687.2,8652301.3
+educacion,school,Institución Educativa Johannes Gutenberg School,way,1029209707,San Juan de Miraflores,1273634915,San Juan de Miraflores,50.01667941245909,True,286260.0,8655536.9
+educacion,school,Institución Educativa The Redeemer,way,1029258596,San Juan de Miraflores,1412832059,San Juan de Miraflores,40.49954529778809,True,285560.0,8656852.6
+educacion,school,Institución Educativa Rosa De Santa Maria,way,1036715232,San Juan de Miraflores,10037362555,San Juan de Miraflores,20.51396116372961,True,285244.3,8654589.2
+educacion,school,Institución Educativa Heroes Del Pacifico,way,1036795953,San Juan de Miraflores,4580400356,San Juan de Miraflores,14.617306482684254,True,285716.4,8653685.2
+educacion,school,Institución Educativa Leonard Euler Ii,way,1037054995,San Juan de Miraflores,10037362555,San Juan de Miraflores,12.416680943868988,True,285271.5,8654594.4
+educacion,school,Institución Educativa Leonard Euler,way,523936186,San Juan de Miraflores,7949063760,San Juan de Miraflores,12.122267852653552,True,284890.8,8654085.9
+educacion,school,Institución Educativa 1051 El Olivar,way,532058660,Buffer (≤ 300 m),138837115,Fuera (buffer),41.85578385588938,True,278707.4,8661317.9
+educacion,school,Colegio Parroquial San Vicente de Paúl,way,548427233,Buffer (≤ 300 m),10988935079,Fuera (buffer),32.350969385125445,True,279620.0,8660172.5
+educacion,school,I .E PRIVADO,way,552030486,San Juan de Miraflores,10960976165,San Juan de Miraflores,36.1576003027481,True,286713.1,8657221.3
+educacion,school,International Christian School of Lima,way,570066785,Miraflores,4332504766,Miraflores,49.57064233309742,True,277874.4,8660036.5
+educacion,school,Colegio Nuestra Señora de la Alegria,way,627189759,Buffer (≤ 300 m),11579686296,Fuera (buffer),29.314079968157323,True,279756.2,8659755.0
+educacion,school,Colegio Parroquial Niño Jesús,way,635859425,San Juan de Miraflores,4207804805,San Juan de Miraflores,60.40743893260752,True,285575.8,8655973.7
+educacion,school,Centro de Instrucción de Aeronaútica Civil Alexander Lopez Vilela CIAC004,way,643404387,Miraflores,262725515,Miraflores,27.67458555137021,True,276895.0,8660229.2
+educacion,school,Institución Educativa Independencia,way,1037048771,Miraflores,262575158,Miraflores,37.11931117522989,True,279434.9,8659924.4
+educacion,school,Jean Peagget,way,512413240,San Juan de Miraflores,4202662457,San Juan de Miraflores,21.600664564747813,True,286893.0,8657758.0
+educacion,school,Institución Educativa Monte Carmelo,way,1040796367,San Juan de Miraflores,1273498458,San Juan de Miraflores,43.651859113285255,True,286159.1,8654525.6
+educacion,school,Institución Educativa Juan Xxiii,way,1042099684,Buffer (≤ 300 m),4333047678,Fuera (buffer),24.93686174084695,True,286848.2,8651352.8
+educacion,school,Institución Educativa Las Americas,way,1042185577,San Juan de Miraflores,1273516085,San Juan de Miraflores,17.743442916953903,True,286444.0,8653155.7
+educacion,school,Institución Educativa Fe y Alegria 65,way,1054260707,San Juan de Miraflores,5559940371,San Juan de Miraflores,44.688723780145054,True,288074.2,8658577.4
+educacion,school,Institución Educativa Inicial N° 556 Niño Jesús,way,1392736776,Buffer (≤ 300 m),12895665484,Fuera (buffer),22.35706186046224,True,279560.1,8660814.6
+educacion,school,Institución Educativa Colegio Emmi Pikler Lima Sur,way,1037084417,San Juan de Miraflores,4354243402,San Juan de Miraflores,53.366543522005124,True,285806.2,8654678.9
+educacion,school,Institución Educativa Virgencita De Chapi,way,1037102330,San Juan de Miraflores,317338833,San Juan de Miraflores,39.12203223413433,True,285753.3,8654267.5
+educacion,school,Colegio San Felipe,way,1037111780,Miraflores,10747671956,Miraflores,19.382266915703728,True,281065.7,8658533.8
+educacion,school,Institución Educativa Santa Maria Virgen,way,1037872544,San Juan de Miraflores,1273713268,San Juan de Miraflores,39.87851029264215,True,286115.6,8655840.6
+educacion,school,Institución Educativa Rvdo William M'carthy School,way,1037937925,San Juan de Miraflores,7952852626,San Juan de Miraflores,11.998962681069429,True,285653.3,8655752.9
+educacion,school,Institución Educativa Sol De Alegria,way,1038669379,San Juan de Miraflores,3746594622,San Juan de Miraflores,18.56864454529217,True,285639.1,8655902.3
+educacion,school,Institución Educativa Leonard Euler Iii,way,1038994073,San Juan de Miraflores,1273962560,San Juan de Miraflores,16.423678557563033,True,284916.0,8654168.3
+educacion,school,Institución Educativa Galeno Lima Sur,way,1039264975,Buffer (≤ 300 m),1715696605,Fuera (buffer),26.41464786218666,True,287137.0,8655203.6
+educacion,school,Institución Educativa San Marcos,way,1040132916,San Juan de Miraflores,4394276676,San Juan de Miraflores,23.09000130489979,True,286289.0,8654859.3
+educacion,school,Institución Educativa La Catolica De San Juan,way,1040154331,San Juan de Miraflores,1738600434,San Juan de Miraflores,19.653367696021306,True,284770.0,8654428.4
+educacion,school,BS Grupo,way,1040178079,Miraflores,4334601959,Miraflores,19.175984923586817,True,278888.5,8660998.4
+educacion,school,Cenfotur-centro De Formacion En Turismo,way,522148231,Buffer (≤ 300 m),391008260,Fuera (buffer),53.87444675598636,True,279599.2,8657100.7
+educacion,school,"I.E. 6089 ""Jorge Basadre Grohmann""",way,442105182,San Juan de Miraflores,1795359949,San Juan de Miraflores,43.72540037791558,True,286414.4,8656414.5
+educacion,school,Institución Educativa Trilce Marsano,way,437995965,Buffer (≤ 300 m),13356939067,Fuera (buffer),33.99349988394017,True,284192.9,8656345.9
+educacion,school,I.E.I. Niños de San Juan,way,437997400,San Juan de Miraflores,1573382981,San Juan de Miraflores,43.811191189512186,True,286011.8,8653374.5
+educacion,school,Institución educativa inicial Maria Guia,way,438006118,San Juan de Miraflores,5502181247,San Juan de Miraflores,30.190790061912548,True,285774.5,8653387.2
+educacion,school,Institución Educativa Santiago Apostol,way,441718405,San Juan de Miraflores,1273694247,San Juan de Miraflores,26.856049757042886,True,286426.2,8652124.1
+educacion,school,Institución Educativa 7086 Los Precursores,way,441955152,Buffer (≤ 300 m),12748385796,Fuera (buffer),74.06203583491514,True,283939.6,8655267.0
+educacion,school,Institución Educativa No. 6041 Alfonso Ugarte,way,441998931,San Juan de Miraflores,1412832081,San Juan de Miraflores,24.924713398582956,True,285520.7,8656730.9
+educacion,school,I.E.P. Miss Marlitt,way,437988786,San Juan de Miraflores,1273518430,San Juan de Miraflores,45.49483533777198,True,286413.9,8653129.9
+educacion,school,Institución educativa inicial 7212-627,way,437988783,San Juan de Miraflores,1573383010,San Juan de Miraflores,29.731283726190373,True,286300.4,8653475.4
+educacion,school,Colegio Saco Oliveros,way,437881501,San Juan de Miraflores,1273523891,San Juan de Miraflores,22.657608828730538,True,284993.6,8654951.2
+educacion,school,Colegio Leonard Euler,way,437679416,San Juan de Miraflores,1273508658,San Juan de Miraflores,20.269628300287547,True,284868.1,8653979.3
+educacion,school,I.E.P.G.P Jesus Niño,way,437686448,San Juan de Miraflores,1273967379,San Juan de Miraflores,15.130186253901714,True,285333.7,8654277.6
+educacion,school,Piaget School,way,437796574,San Juan de Miraflores,4355978972,San Juan de Miraflores,11.330589979953166,True,285443.9,8654437.2
+educacion,school,"I.E. 7100 ""República Alemana""",way,437831543,San Juan de Miraflores,1273927466,San Juan de Miraflores,71.56211896968871,True,286880.9,8652787.5
+educacion,school,Colegio Padre Iluminato,way,437875682,San Juan de Miraflores,6685697958,San Juan de Miraflores,117.73387623388714,False,285070.3,8653478.3
+educacion,school,I.E. N° 7099 Héctor Pretell,way,437842807,San Juan de Miraflores,1766564356,San Juan de Miraflores,48.366070365690305,True,285735.5,8653089.7
+educacion,school,I.E.P. Pequeños Genios,way,437860249,San Juan de Miraflores,317338714,San Juan de Miraflores,12.74896416080709,True,285782.6,8654795.0
+educacion,school,"I.E. N° 7207 ""Mariscal Ramón Castilla""",way,437873283,San Juan de Miraflores,10938926684,San Juan de Miraflores,31.565244760576505,True,285813.3,8653736.2
+educacion,school,Santa Rosa de Valle,way,437873289,San Juan de Miraflores,7948404418,San Juan de Miraflores,25.548063408791382,True,285562.9,8653597.9
+educacion,school,Santa Isabel,way,437873290,San Juan de Miraflores,4580402692,San Juan de Miraflores,26.13540051024462,True,285585.6,8653737.1
+educacion,school,I.E.P. Dios es Amor,way,437875681,San Juan de Miraflores,4049158733,San Juan de Miraflores,18.435662479621996,True,285547.6,8653801.0
+educacion,school,"I.E. 7059 ""José A. Encinas F.""",way,442105181,San Juan de Miraflores,1273717106,San Juan de Miraflores,42.66601669236439,True,286156.9,8656361.4
+educacion,school,"I.E. 7087 ""El Nazareno""",way,442105201,San Juan de Miraflores,1273449407,San Juan de Miraflores,69.361187556784,True,287118.9,8657504.8
+educacion,school,"I.E. N° 6078 ""Santa Rosa""",way,447125336,San Juan de Miraflores,7949153781,San Juan de Miraflores,43.2838991581242,True,285797.7,8655210.7
+educacion,school,"I.E. N° 7081 ""José María Arguedas""",way,447235348,San Juan de Miraflores,12443808731,San Juan de Miraflores,46.066732451346056,True,284583.3,8652859.4
+educacion,school,Institución Educativa Nuestra Señora De Guadalupe ex San Juan,way,448754875,San Juan de Miraflores,10700521093,San Juan de Miraflores,52.522768539214084,True,286239.7,8654700.2
+educacion,school,I.E. N° 6072,way,463339897,Buffer (≤ 300 m),1273845792,Fuera (buffer),43.88056952336201,True,287144.1,8654373.3
+educacion,school,,way,442105204,San Juan de Miraflores,1752688316,San Juan de Miraflores,54.10139759984139,True,286958.9,8658291.4
+educacion,school,Institución Educativa No. 7214,way,447008362,Buffer (≤ 300 m),10962889999,Fuera (buffer),41.320305424739864,True,287391.6,8657037.1
+educacion,school,I.E N° 6038 Ollantay,way,442105225,San Juan de Miraflores,6292427899,San Juan de Miraflores,74.13729365622015,True,286219.4,8657489.7
+educacion,school,"I.E. 7074 ""La Inmaculada""",way,442105231,San Juan de Miraflores,1273459794,San Juan de Miraflores,50.63690825670927,True,285797.2,8657524.1
+educacion,school,Institución Educativa 6151 San Luis Gonzaga,way,442105237,San Juan de Miraflores,1412831768,San Juan de Miraflores,56.6144151297115,True,285422.3,8657289.1
+educacion,school,I.E 7082 Juan de Ezpinoza Medrano,way,442105213,San Juan de Miraflores,1273671850,San Juan de Miraflores,28.640350784310865,True,286395.4,8658025.9
+educacion,school,"I.E. N° 7070 ""Dra. María Reiche Grosse - Neuman""",way,446436982,San Juan de Miraflores,1273584090,San Juan de Miraflores,56.16134176989225,True,285327.1,8654159.6
+educacion,school,,way,445344927,San Juan de Miraflores,1754149927,San Juan de Miraflores,29.16163973324207,True,287322.4,8652184.7
+educacion,school,"CEBA N° 6081 ""Manuel Scorza Torres""",way,447008358,Buffer (≤ 300 m),4396932177,Fuera (buffer),77.18811387302378,True,287459.3,8657135.8
+educacion,school,Institución Educativa Sofia Victoria,node,5597273315,San Juan de Miraflores,1273717386,San Juan de Miraflores,5.04489233653149,True,284707.2,8655635.9
+educacion,school,Institución Educativa Mi Maestro Es Jesus,node,5597272173,San Juan de Miraflores,1781236668,San Juan de Miraflores,15.6050030923949,True,285491.0,8655461.3
+educacion,school,Institución Educativa Apostol San Pablo,node,5597272175,San Juan de Miraflores,1410761962,San Juan de Miraflores,25.6319657932675,True,285369.1,8655771.6
+educacion,school,Institución Educativa Cruz Saco De San Juan,node,5597273308,San Juan de Miraflores,7949063095,San Juan de Miraflores,22.021518025944612,True,284901.4,8655724.5
+educacion,school,Institución Educativa Inicial Fermín Tangüis,node,5597273309,San Juan de Miraflores,4394276529,San Juan de Miraflores,18.559259663898306,True,284870.4,8655494.4
+educacion,school,Institución Educativa San Juan Bautista,node,5597273310,San Juan de Miraflores,5396254805,San Juan de Miraflores,4.399731523531264,True,284705.0,8655743.5
+educacion,school,Institución Educativa Jose Quiñones Gonzales,node,5597273314,San Juan de Miraflores,7949063097,San Juan de Miraflores,14.177773537673728,True,284966.9,8655698.6
+educacion,school,Institución Educativa Especial 4,node,5597273552,Miraflores,3245719727,Miraflores,25.020679220861062,True,281947.8,8658679.9
+educacion,school,Institución Educativa Fermín Tangüis,node,5597273317,San Juan de Miraflores,4394276529,San Juan de Miraflores,22.805675249535412,True,284870.6,8655488.9
+educacion,school,Institución Educativa 6050 Juana Alarco De Dammert,node,5597273550,Miraflores,10956710280,Miraflores,42.10430960546184,True,281402.7,8658582.0
+educacion,school,Institución Educativa Maria Reyna De Los Angeles,node,5597273726,San Juan de Miraflores,1410761935,San Juan de Miraflores,22.905261885075504,True,285193.5,8655936.3
+educacion,school,Institución Educativa Santa Ursula,node,5597273727,San Juan de Miraflores,1410761935,San Juan de Miraflores,45.17140230109319,True,285161.3,8655914.3
+educacion,school,Pedro Paulet,node,5597273732,San Juan de Miraflores,1796874933,San Juan de Miraflores,46.107578292855,True,285531.0,8655961.3
+educacion,school,Institución Educativa Cristiano Diego Thomson,node,5597272171,San Juan de Miraflores,1412832198,San Juan de Miraflores,23.413643702605924,True,285120.9,8655435.0
+educacion,school,Institución Educativa Paulo Freire,node,5597275162,San Juan de Miraflores,1410761797,San Juan de Miraflores,67.49913437491189,True,284919.4,8656244.5
+educacion,school,Institución Educativa El Mundo De Los Geniecitos,node,5597275160,San Juan de Miraflores,7952830948,San Juan de Miraflores,9.944244431681193,True,284713.5,8656131.8
+educacion,school,Institución Educativa 7061 Heroes De San Juan,node,5597272170,San Juan de Miraflores,4090464919,San Juan de Miraflores,56.13055075413549,True,285043.3,8655423.7
+educacion,school,Institución Educativa 7062 Naciones Unidas,node,5597272169,San Juan de Miraflores,1412832198,San Juan de Miraflores,20.117905491955874,True,285110.6,8655393.9
+educacion,school,Institución Educativa Ingenieria San Juan,node,5597270679,San Juan de Miraflores,4203543293,San Juan de Miraflores,72.46746858199913,True,285514.7,8656561.2
+educacion,school,Institución Educativa Amanecer,node,5597275166,San Juan de Miraflores,1410761901,San Juan de Miraflores,8.753441825973363,True,284681.2,8656074.3
+educacion,school,Institución Educativa Corpus Christi,node,5597270684,San Juan de Miraflores,1412832121,San Juan de Miraflores,42.39228066795134,True,285557.5,8656601.3
+educacion,school,Institución Educativa Joyitas De Jesus,node,5597270685,San Juan de Miraflores,1412832037,San Juan de Miraflores,17.01719858572235,True,285500.5,8656890.6
+educacion,school,Institución Educativa William Thomson,node,5597270690,San Juan de Miraflores,4203543293,San Juan de Miraflores,34.669797156084854,True,285545.6,8656539.5
+educacion,school,Institución Educativa 7227 Horacio Zeballos Gamez,node,5597270697,San Juan de Miraflores,10827539031,San Juan de Miraflores,41.709561190732906,True,284668.9,8657089.3
+educacion,school,Institución Educativa Charles De Gaulle,node,5597272164,San Juan de Miraflores,1781236641,San Juan de Miraflores,22.684342146247076,True,285448.3,8655363.2
+educacion,school,Institución Educativa Ingenieria De Carmelitas,node,5597272165,San Juan de Miraflores,1412832198,San Juan de Miraflores,24.83053313180556,True,285120.9,8655436.4
+educacion,school,Institución Educativa Virgen Del Pilar,node,5597272166,San Juan de Miraflores,1273866927,San Juan de Miraflores,25.55207667466903,True,285086.9,8655693.3
+educacion,school,Institución Educativa 7067 Toribio Seminario,node,5597275163,San Juan de Miraflores,1410761924,San Juan de Miraflores,23.053134701477347,True,284780.0,8655985.2
+educacion,school,Institución Educativa 54 Ciudad De Dios,node,5597275167,San Juan de Miraflores,7952831005,San Juan de Miraflores,21.50177204768042,True,284953.2,8656010.0
+educacion,school,Institución Educativa Inicial Alexander von Humboldt,node,5610132807,Miraflores,263617521,Miraflores,64.29760955616312,True,282010.7,8658465.6
+educacion,school,Trilce,node,7561197414,Buffer (≤ 300 m),4334601930,Fuera (buffer),52.70586113644618,True,278858.0,8661473.9
+educacion,school,CEBA 7009 Federico Villarreal,node,14025388007,Miraflores,13343135615,Miraflores,20.3293041004317,True,281855.9,8658801.4
+educacion,school,Institución Educativa Alborada,node,3379539114,Miraflores,263634420,Miraflores,50.61629413135339,True,280152.0,8659014.2
+educacion,school,Institución Educativa Santa Maria Josefa Rossello,node,5597286258,Buffer (≤ 300 m),3454414688,Fuera (buffer),33.53957548572809,True,280980.3,8659861.6
+educacion,school,Institución Educativa Santa Maria De Nazareth,node,5597286247,Buffer (≤ 300 m),445251873,Fuera (buffer),22.577437352004587,True,281430.4,8659829.6
+educacion,school,Institución Educativa Mi San Martincito,node,5597270677,San Juan de Miraflores,4351430601,San Juan de Miraflores,31.700489146279434,True,284871.6,8656442.4
+educacion,school,Institución Educativa San Juan Bosco,node,3379539100,Miraflores,3967025399,Miraflores,49.79863575009579,True,279643.9,8659193.7
+educacion,school,Institución Educativa Corazon Inmaculado De Maria,node,5597270675,San Juan de Miraflores,1412832042,Fuera (buffer),23.691384499154314,True,285044.0,8656853.9
+educacion,school,Institución Educativa Jose Antonio Encinas,node,5597194440,San Juan de Miraflores,5067473695,San Juan de Miraflores,21.464348616636908,True,286839.9,8657108.5
+educacion,school,Institución Educativa 6081 Manuel Scorza Torres,node,5597194426,Buffer (≤ 300 m),4396932180,Fuera (buffer),40.641171915536624,True,287567.0,8657197.1
+educacion,school,Institución Educativa David Ausubel,node,5597194431,Buffer (≤ 300 m),11043307456,Fuera (buffer),24.113710391752626,True,287502.2,8657092.7
+educacion,school,Institución Educativa 7087 El Nazareno,node,5597194437,San Juan de Miraflores,1273449407,San Juan de Miraflores,33.84675534563145,True,287109.7,8657455.3
+educacion,school,Institución Educativa Gadol,node,5597216390,San Juan de Miraflores,4090464895,San Juan de Miraflores,6.074468692293064,True,286591.8,8655294.0
+educacion,school,Institución Educativa San Juan College,node,5597194608,San Juan de Miraflores,1752671773,San Juan de Miraflores,23.189382174498423,True,287069.0,8658618.1
+educacion,school,Institución Educativa Cristina Beatriz,node,5597197728,San Juan de Miraflores,4203543914,San Juan de Miraflores,42.717341855946444,True,286733.9,8658035.4
+educacion,school,Institución Educativa Jesus Obrero,node,5597197730,San Juan de Miraflores,1752672006,San Juan de Miraflores,34.0025019384507,True,286560.7,8658123.8
+educacion,school,Institución Educativa No. 7035,node,5597197735,San Juan de Miraflores,4202662473,San Juan de Miraflores,5.038086129040204,True,286748.6,8657705.4
+educacion,school,Institución Educativa Jesus Obrero De Ollantay,node,5597197737,San Juan de Miraflores,1273571578,San Juan de Miraflores,40.785928827528885,True,286321.5,8658058.2
+educacion,school,Institución Educativa 7082 Juan De Espinosa Medrano,node,5597197739,San Juan de Miraflores,1273671850,San Juan de Miraflores,37.215749386191185,True,286397.7,8658017.5
+educacion,school,Institución Educativa Santa Maria Eduviges,node,5597197742,San Juan de Miraflores,1273702542,San Juan de Miraflores,16.79799726514719,True,286333.0,8657949.5
+educacion,school,Institución Educativa San Pedro,node,5597197743,San Juan de Miraflores,5437636595,San Juan de Miraflores,15.627552608941269,True,286389.1,8657892.6
+educacion,school,Institución Educativa San Benito De Palermo,node,5597197744,San Juan de Miraflores,1273901393,San Juan de Miraflores,42.64726820491984,True,286236.4,8657860.3
+educacion,school,Institución Educativa Daniel Goleman,node,5597143964,San Juan de Miraflores,9236395256,San Juan de Miraflores,31.013269542545807,True,287128.9,8659252.9
+educacion,school,Institución Educativa Divino Maestro De Pamplona,node,5597197745,San Juan de Miraflores,4203543809,San Juan de Miraflores,22.037462373700265,True,286117.7,8657636.2
+educacion,school,Institución Educativa Sor Maria De Los Angeles,node,5597198982,San Juan de Miraflores,1273652735,San Juan de Miraflores,21.283293200042568,True,285933.4,8657514.2
+educacion,school,Institución Educativa Jesus Redentor De Pamplona,node,5597198985,San Juan de Miraflores,1273901273,San Juan de Miraflores,30.1234199845115,True,285706.6,8657189.2
+educacion,school,Institución Educativa Fe Y Alegria 3,node,5597208099,San Juan de Miraflores,1796866435,San Juan de Miraflores,31.32491748286396,True,285672.6,8656085.8
+educacion,school,Institución Educativa La Villa De San Francisco De Asis,node,5597208101,San Juan de Miraflores,1273664812,San Juan de Miraflores,25.82670696431857,True,285811.6,8656229.8
+educacion,school,Institución Educativa Nuestra Señora De La Asuncion,node,5597208105,San Juan de Miraflores,1273629784,San Juan de Miraflores,26.214658205469807,True,285922.4,8655909.1
+educacion,school,Institución Educativa Latinoamerica,node,5597208106,San Juan de Miraflores,3746594622,San Juan de Miraflores,11.71519642370644,True,285650.9,8655896.0
+educacion,school,Institución Educativa 7059 Jose Antonio Encinas Franco,node,5597208108,San Juan de Miraflores,5462386383,San Juan de Miraflores,70.19800168817707,True,286116.1,8656362.4
+educacion,school,Institución Educativa 6045 Dolores Cavero De Grau,node,5597214610,San Juan de Miraflores,1273504365,San Juan de Miraflores,28.109494473965224,True,285924.8,8655708.3
+educacion,school,Institución Educativa Albert Einstein,node,5597214615,San Juan de Miraflores,6986230248,San Juan de Miraflores,29.632710032230825,True,286089.9,8655433.3
+educacion,school,Institución Educativa Divino Niño,node,5597214619,San Juan de Miraflores,1273622553,San Juan de Miraflores,21.86436743530073,True,286024.1,8655555.7
+educacion,school,Institución Educativa Reynaldo De Vivanco,node,5597216221,San Juan de Miraflores,7952839180,San Juan de Miraflores,16.72006005664351,True,285980.1,8655619.5
+educacion,school,Institución Educativa L'hermitage,node,5597216223,San Juan de Miraflores,1752594969,San Juan de Miraflores,14.922719430644603,True,285882.8,8655331.3
+educacion,school,Institución Educativa Niño Jesus,node,5597208100,San Juan de Miraflores,1752594935,San Juan de Miraflores,26.34496429864343,True,285617.9,8655995.1
+educacion,school,Institución Educativa San Pedro Del Horizonte,node,5597208098,San Juan de Miraflores,1752613948,San Juan de Miraflores,40.09896131234094,True,285953.8,8656184.2
+educacion,school,Institución Educativa San Benito Kids,node,5597198988,San Juan de Miraflores,1273815485,San Juan de Miraflores,29.29389423231599,True,285882.7,8657058.9
+educacion,school,Institución Educativa Luis Guillermo Lumbreras,node,5597206727,San Juan de Miraflores,5434322560,San Juan de Miraflores,13.424705994413337,True,285916.0,8656948.6
+educacion,school,Institución Educativa Rvda. Madre Mariana Carrigan,node,5597198989,San Juan de Miraflores,4203543326,San Juan de Miraflores,21.30712469912476,True,286110.2,8657170.7
+educacion,school,Institución Educativa Miguel Grau,node,5597198990,San Juan de Miraflores,4202677642,San Juan de Miraflores,28.815607683559126,True,286141.9,8657293.4
+educacion,school,Institución Educativa Albert Einstein,node,5597198994,San Juan de Miraflores,1273689554,San Juan de Miraflores,28.057835337815547,True,285967.4,8657256.4
+educacion,school,Institución Educativa 7074 La Inmaculada,node,5597198995,San Juan de Miraflores,1273768714,San Juan de Miraflores,45.05185627513529,True,285813.8,8657523.9
+educacion,school,Institución Educativa San Martincito De Porres,node,5597199283,San Juan de Miraflores,4203543789,San Juan de Miraflores,26.52390900724511,True,286261.7,8657340.1
+educacion,school,Institución Educativa Semillitas De Jesus,node,5597199285,San Juan de Miraflores,4202677645,San Juan de Miraflores,40.52544955625097,True,286391.7,8657347.4
+educacion,school,Institución Educativa Santa Maria Victoria,node,5597199286,San Juan de Miraflores,10960976165,San Juan de Miraflores,39.08964676570858,True,286708.6,8657220.1
+educacion,school,Institución Educativa Horst Kiehn,node,5597199288,San Juan de Miraflores,1573127449,San Juan de Miraflores,9.886794718408586,True,286598.4,8657397.5
+educacion,school,Institución Educativa Cristo Sembrador,node,5597199291,San Juan de Miraflores,4202677645,San Juan de Miraflores,12.083968270375065,True,286370.5,8657325.6
+educacion,school,Institución Educativa No. 6038,node,5597199292,San Juan de Miraflores,1273927980,San Juan de Miraflores,36.115467437324256,True,286280.8,8657566.2
+educacion,school,Institución Educativa Felipe Pardo Y Aliaga,node,5597201281,San Juan de Miraflores,5010407420,San Juan de Miraflores,15.086862775195153,True,286428.0,8656899.5
+educacion,school,Institución Educativa Maria De Los Angeles,node,5597201282,San Juan de Miraflores,1273526940,San Juan de Miraflores,24.883836164410425,True,286496.5,8656510.5
+educacion,school,Institución Educativa 6089 Jorge Basadre Grohmann,node,5597201284,San Juan de Miraflores,1273749696,San Juan de Miraflores,17.069855650650474,True,286398.4,8656454.4
+educacion,school,Institución Educativa Santa Rita De Pamplona,node,5597201285,San Juan de Miraflores,1273986281,San Juan de Miraflores,25.904476049231054,True,286244.1,8656716.3
+educacion,school,Institución Educativa San Andres,node,5597201286,San Juan de Miraflores,1273465324,San Juan de Miraflores,77.82657710686361,True,286494.0,8656845.1
+educacion,school,Institución Educativa Avanzando La Luz,node,5597203820,San Juan de Miraflores,4203543361,San Juan de Miraflores,21.21001595753473,True,285697.6,8657034.2
+educacion,school,Institución Educativa Los Jilgueritos,node,5597206723,San Juan de Miraflores,5481854997,San Juan de Miraflores,61.220631781562034,True,286089.3,8656992.7
+educacion,school,Institución Educativa Santo Tomas De Aquino,node,5597206725,San Juan de Miraflores,4202660483,San Juan de Miraflores,37.62289189746928,True,286135.6,8656662.7
+educacion,school,Institución Educativa Jean Piaget Siglo Xxi,node,5256606638,Buffer (≤ 300 m),1273858028,Fuera (buffer),64.30066682635363,True,284477.9,8651290.3
+educacion,school,Institución Educativa 7076 Las Brisas De Villa,node,5256606641,Buffer (≤ 300 m),1826854024,Fuera (buffer),35.40386320077107,True,285133.7,8650842.2
+educacion,school,Institución Educativa 6097 Mateo Pumacahua,node,5256606645,Buffer (≤ 300 m),1805764085,Fuera (buffer),25.331260392835357,True,284515.9,8651430.9
+educacion,school,Institución Educativa Virgen Santa Ana,node,5256606647,San Juan de Miraflores,1273837198,San Juan de Miraflores,19.364294637043255,True,285119.1,8651332.9
+educacion,school,Institución Educativa Alfredo Salazar Southwell,node,3379539117,Miraflores,10973227067,Miraflores,18.08035245379664,True,279315.3,8659979.9
+educacion,school,Institución Educativa Pestalozzi,node,3379539145,Miraflores,4259537457,Miraflores,44.8451030078897,True,280670.6,8658979.1
+educacion,school,Colegio Pestalozzi,node,3379539146,Miraflores,263923200,Miraflores,63.48071989999495,True,280692.3,8658979.1
+educacion,school,Colegio Santa María de Miraflores,node,3379539156,Miraflores,3245719702,Miraflores,31.97406037215414,True,281744.6,8659032.2
+educacion,school,Colegio Sor Ana de los Angeles Monteagudo,node,3379539163,Miraflores,138854735,Miraflores,44.18635326460775,True,278569.5,8659537.4
+educacion,school,Institución Educativa Totus Tuus,node,3379539165,Miraflores,257946726,Miraflores,35.84653078438236,True,278944.4,8660383.0
+educacion,school,Colegio Trilce Benavides,node,3379539167,Miraflores,10747671956,Miraflores,34.39770213289729,True,281019.3,8658545.7
+educacion,school,Institución Educativa Union Miraflores,node,3379539168,Miraflores,12823208578,Miraflores,14.616655616151075,True,278336.9,8660199.5
+educacion,school,Anexo Inicial La Rinconada N° 7221,node,4320516090,San Juan de Miraflores,5468183289,San Juan de Miraflores,20.367112408286637,True,286909.7,8658226.2
+educacion,school,Peruano De Sistemas Sise,node,4336190417,Miraflores,108183461,Miraflores,24.219096625023596,True,279117.9,8658764.4
+educacion,school,Colegio Leonard Euler,node,4405102891,San Juan de Miraflores,1273962560,San Juan de Miraflores,16.002624960251808,True,284916.3,8654169.5
+educacion,school,Colegio de Traductores del Perú,node,4506524193,Miraflores,133935665,Miraflores,31.508954902341753,True,279755.0,8658446.1
+educacion,school,IEP Reynaldo de Vivanco,node,4552509089,San Juan de Miraflores,7952839179,San Juan de Miraflores,10.478606823749749,True,285995.2,8655611.2
+educacion,school,Mundo Feliz,node,5012496241,San Juan de Miraflores,1273751828,San Juan de Miraflores,17.132210878313597,True,285721.8,8657190.3
+educacion,school,Institución Educativa No. 7230,node,5256606648,San Juan de Miraflores,1809564477,San Juan de Miraflores,23.276333933664656,True,284926.8,8651526.6
+educacion,school,"Institución Educativa Parroquial ""San Martín de Porres""",node,5354966212,San Juan de Miraflores,4203543789,San Juan de Miraflores,37.25689562377217,True,286263.7,8657328.1
+educacion,school,Virgen De Guadalupe,node,5594960332,Miraflores,108183461,Miraflores,41.70248057866187,True,279163.7,8658783.8
+educacion,school,Institución Educativa Santisimo,node,5595045326,Buffer (≤ 300 m),1273630189,Fuera (buffer),56.23475930369515,True,280562.2,8659651.0
+educacion,school,Institución Educativa 7027 Nuestra Señora De La Alegria,node,5595045329,Buffer (≤ 300 m),262574067,Fuera (buffer),26.308746968318058,True,279743.7,8659758.1
+educacion,school,Institución Educativa Markham,node,5595045332,Miraflores,263923327,Miraflores,22.806543820366137,True,280585.2,8658797.5
+educacion,school,Centro De La Fotografia,node,5595048464,Miraflores,10956847185,Miraflores,20.537385470908816,True,279566.3,8658442.7
+educacion,school,Mod'art,node,5595048465,Miraflores,10956847186,Miraflores,22.077666123287813,True,279575.4,8658395.8
+educacion,school,Peruano De Marketing,node,5595064510,Miraflores,377014645,Miraflores,21.729350457260217,True,279869.9,8658427.3
+educacion,school,Institución Educativa 7032 Virgen Del Pilar,node,5595074952,Buffer (≤ 300 m),391016290,Fuera (buffer),47.57619095049945,True,280005.4,8657516.8
+educacion,school,Institución Educativa Nazareno,node,5597076445,Buffer (≤ 300 m),4442189061,Fuera (buffer),27.863519067172124,True,288304.5,8657751.8
+educacion,school,Institución Educativa Tarpuy Kusiy,node,5595045324,Buffer (≤ 300 m),1273976404,Fuera (buffer),22.01465696737438,True,280769.0,8659735.6
+educacion,school,Peruano De Arte Y Diseño,node,5594960331,Miraflores,3245705964,Miraflores,22.59421721243264,True,279280.7,8658857.4
+educacion,school,Instituto De Desarrollo Empresarial Y Administrativo-idea,node,5594960329,Miraflores,4512657759,Miraflores,22.674527520999128,True,279221.2,8659482.0
+educacion,school,Institución Educativa Celaap Jeshua,node,5593241375,Miraflores,197656057,Miraflores,31.565935101511364,True,278335.2,8658893.0
+educacion,school,Institución Educativa Trilce De San Isidro,node,5594916167,Buffer (≤ 300 m),4344863435,Fuera (buffer),57.41747185889553,True,278871.2,8661478.4
+educacion,school,Institución Educativa Santa Rosa,node,5594916168,Buffer (≤ 300 m),138839724,Fuera (buffer),33.9712987757621,True,278742.7,8661198.6
+educacion,school,Institución Educativa Siempre Amanecer,node,5594937374,Miraflores,2719288285,Miraflores,54.58493047568929,True,278904.1,8660216.9
+educacion,school,Institución Educativa Miraflores School,node,5594945686,Miraflores,2489361783,Miraflores,34.04140678074733,True,279432.5,8660383.0
+educacion,school,Institución Educativa Espiritu Santo,node,5594945689,Miraflores,138851462,Miraflores,23.72536098044953,True,279123.4,8660418.9
+educacion,school,Inlog,node,5594960323,Buffer (≤ 300 m),3718590098,Fuera (buffer),37.60394202349365,True,279532.1,8659859.6
+educacion,school,Institución Educativa La Reparacion,node,5594960328,Miraflores,10581092819,Miraflores,38.52698862251625,True,278799.9,8659318.9
+educacion,school,Institución Educativa La Inmaculada,node,5597216385,San Juan de Miraflores,4560845175,San Juan de Miraflores,22.819888546420884,True,286284.2,8655703.3
+educacion,school,Institución Educativa 7060 Andres Avelino Caceres,node,5597216392,San Juan de Miraflores,3774381492,San Juan de Miraflores,42.08480935658605,True,286425.1,8655791.9
+educacion,school,Institución Educativa Talentus - Kits,node,5597270624,San Juan de Miraflores,1273896426,San Juan de Miraflores,6.946083113848561,True,286282.5,8652901.8
+educacion,school,Institución Educativa Capitan Enrique Oppenheimer,node,5597241907,San Juan de Miraflores,1273785492,San Juan de Miraflores,18.511463522288906,True,286023.5,8654186.3
+educacion,school,Institución Educativa Cosmos,node,5597241913,San Juan de Miraflores,1273785492,San Juan de Miraflores,33.37439193640901,True,286044.8,8654172.5
+educacion,school,Institución Educativa Andres Bello,node,5597241918,San Juan de Miraflores,7949063925,San Juan de Miraflores,9.790750977708745,True,285838.8,8654106.8
+educacion,school,Institución Educativa Le Bouch Montessori,node,5597242123,San Juan de Miraflores,6501315601,San Juan de Miraflores,8.150042926421193,True,285618.5,8654412.4
+educacion,school,Institución Educativa Rosario Del Solar,node,5597242124,San Juan de Miraflores,1573382890,San Juan de Miraflores,25.493948991447873,True,285847.1,8654428.9
+educacion,school,Institución Educativa San Juan Apostol,node,5597242125,San Juan de Miraflores,7949063891,San Juan de Miraflores,19.554402842970426,True,286001.8,8654096.5
+educacion,school,Institución Educativa Jorge Basadre Grohmann,node,5597243312,Buffer (≤ 300 m),5446209340,Fuera (buffer),47.2806570882911,True,286591.0,8651253.1
+educacion,school,Institución Educativa 6037 Inca Pachacutec,node,5597216393,San Juan de Miraflores,4207804794,San Juan de Miraflores,47.24941591958797,True,286286.7,8655336.1
+educacion,school,Institución Educativa Shaddai,node,5597244224,Buffer (≤ 300 m),1273894096,Fuera (buffer),24.223437822145538,True,287173.3,8651691.6
+educacion,school,Institución Educativa San Carlos De Las Mercedes,node,5597245725,San Juan de Miraflores,7939269398,San Juan de Miraflores,25.70505947892539,True,286581.3,8651644.5
+educacion,school,Institución Educativa Ingenieria Iii,node,5597245731,San Juan de Miraflores,1713766800,San Juan de Miraflores,19.574865333580252,True,285505.0,8655089.4
+educacion,school,Institución Educativa Reverendo Jim Madden,node,5597241905,San Juan de Miraflores,10037362558,San Juan de Miraflores,16.131689637382703,True,286126.2,8654594.5
+educacion,school,Institución Educativa Nuestra Señora Del Carmen,node,5597241904,San Juan de Miraflores,1573382945,San Juan de Miraflores,17.168437177915308,True,286194.2,8654593.8
+educacion,school,Institución Educativa San Marcos De Uranmarca,node,5597241477,San Juan de Miraflores,7939269388,San Juan de Miraflores,31.441626595271057,True,286678.9,8651964.9
+educacion,school,Institución Educativa Lawrence Kohlberg,node,5597238083,San Juan de Miraflores,4354458942,San Juan de Miraflores,23.573162478515837,True,286857.2,8653247.8
+educacion,school,Institución Educativa San Benito De Palermo Ii,node,5597241057,San Juan de Miraflores,1805764005,San Juan de Miraflores,31.254325220025635,True,284540.0,8652592.5
+educacion,school,Institución Educativa Pitagoras,node,5597241058,San Juan de Miraflores,1809564445,San Juan de Miraflores,17.919212479714115,True,285189.1,8651897.1
+educacion,school,Institución Educativa Ricardo Palma,node,5597241060,San Juan de Miraflores,4486099170,San Juan de Miraflores,18.25335527730136,True,285181.8,8651909.5
+educacion,school,Institución Educativa American Children High School,node,5597241062,San Juan de Miraflores,9332210293,San Juan de Miraflores,29.679720434235016,True,284566.9,8652167.6
+educacion,school,Institución Educativa Jesus Nazareno,node,5597241063,San Juan de Miraflores,10030136920,San Juan de Miraflores,14.444498485998816,True,284657.2,8651736.2
+educacion,school,Institución Educativa Isaac Newton,node,5597241068,San Juan de Miraflores,1753932087,San Juan de Miraflores,15.694394524457019,True,284694.2,8652514.3
+educacion,school,Institución Educativa San Juan Bautista De La Salle,node,5597241069,San Juan de Miraflores,1753932095,San Juan de Miraflores,28.630172645705617,True,284870.1,8652461.4
+educacion,school,Institución Educativa No. 7101,node,5597241074,San Juan de Miraflores,4332963530,San Juan de Miraflores,48.194704279000184,True,284667.6,8652258.1
+educacion,school,Institución Educativa America Siglo Xxi,node,5597241075,San Juan de Miraflores,1809566005,San Juan de Miraflores,22.444840230951275,True,284965.3,8652056.6
+educacion,school,Institución Educativa Cristiana Alvin Murray,node,5597241076,San Juan de Miraflores,1753932104,San Juan de Miraflores,14.679145463427787,True,284591.7,8652306.0
+educacion,school,Institución Educativa Miguel Grau,node,5597241078,San Juan de Miraflores,1273464238,San Juan de Miraflores,33.30934520461861,True,284887.3,8652136.3
+educacion,school,Institución Educativa San Silvestre,node,5597241081,San Juan de Miraflores,1273973048,San Juan de Miraflores,27.980783392037075,True,284663.6,8652502.8
+educacion,school,Institución Educativa 7081 Jose Maria Arguedas A,node,5597241083,San Juan de Miraflores,1805764002,San Juan de Miraflores,25.739970451744277,True,284597.7,8652837.9
+educacion,school,Institución Educativa Sagrada Familia De Villa El Salvador,node,5597241466,San Juan de Miraflores,3208277286,San Juan de Miraflores,19.176403121579405,True,286463.4,8652077.5
+educacion,school,Institución Educativa Nuestra Señora De Guadalupe,node,5597241468,San Juan de Miraflores,1723583938,San Juan de Miraflores,33.58375496938291,True,286766.9,8652274.6
+educacion,school,Institución Educativa No. 7211,node,5597241469,San Juan de Miraflores,4469198948,San Juan de Miraflores,19.5112306786913,True,286470.0,8652592.3
+educacion,school,Institución Educativa Gabriel Garcia Marquez,node,5597241471,San Juan de Miraflores,1727251722,San Juan de Miraflores,34.95802039197058,True,286397.7,8652213.8
+educacion,school,Institución Educativa Maestro Cruz Saco,node,5597245737,San Juan de Miraflores,2761622764,San Juan de Miraflores,42.854115899205766,True,285278.1,8654807.4
+educacion,school,Institución Educativa Manuel Antonio Ramirez Barinaga,node,5597245738,San Juan de Miraflores,2762154065,San Juan de Miraflores,59.5211927778389,True,285308.2,8655082.4
+educacion,school,Institución Educativa Maria Purisima,node,5597245739,San Juan de Miraflores,1273675146,San Juan de Miraflores,35.998214754399214,True,285111.2,8655193.9
+educacion,school,Institución Educativa Anglo Montessori,node,5597259454,San Juan de Miraflores,6501314984,San Juan de Miraflores,15.320099526068416,True,284302.2,8655668.0
+educacion,school,Institución Educativa Miguel Grau Seminario,node,5597259455,Buffer (≤ 300 m),13084948551,Fuera (buffer),28.604747514464133,True,283911.4,8655492.9
+educacion,school,Institución Educativa No. 7212,node,5597259924,San Juan de Miraflores,1273926365,San Juan de Miraflores,27.782173765550425,True,286296.6,8653487.1
+educacion,school,Institución Educativa Jhon Napier,node,5597259926,San Juan de Miraflores,5466527242,San Juan de Miraflores,2.0387160496077072,True,286558.0,8653920.1
+educacion,school,Institución Educativa San Bartolome,node,5597259928,San Juan de Miraflores,3458963665,San Juan de Miraflores,36.80963296069127,True,286528.9,8653559.3
+educacion,school,Institución Educativa Mi Pequeño Mundo De San Juan,node,5597259929,San Juan de Miraflores,1273460747,San Juan de Miraflores,27.285780203214777,True,286548.7,8653766.3
+educacion,school,Institución Educativa Virgen De La Asuncion,node,5597261652,Buffer (≤ 300 m),1414370406,Fuera (buffer),39.07957378473434,True,284206.9,8657094.6
+educacion,school,Institución Educativa Carmelitas American High School,node,5597266637,San Juan de Miraflores,1753984146,San Juan de Miraflores,18.910964199360745,True,286030.4,8653063.2
+educacion,school,Institución Educativa Señor De Animas,node,5597266639,San Juan de Miraflores,1273592748,San Juan de Miraflores,18.834949849868178,True,286083.2,8653421.4
+educacion,school,Institución Educativa 7099 Hector Pretell Carbonell,node,5597266641,San Juan de Miraflores,1753984147,San Juan de Miraflores,34.34498570978802,True,285748.8,8653072.6
+educacion,school,Institución Educativa Miss Marlitt,node,5597269717,San Juan de Miraflores,1273518430,San Juan de Miraflores,35.67338125825539,True,286422.7,8653125.3
+educacion,school,Institución Educativa Talentus,node,5597270623,San Juan de Miraflores,1273896426,San Juan de Miraflores,16.367705268617847,True,286282.5,8652911.9
+educacion,school,Institución Educativa Julio Cesar Escobar,node,5597245740,San Juan de Miraflores,1738600457,San Juan de Miraflores,45.57280526977434,True,285159.3,8654677.4
+educacion,school,Institución Educativa Padre Romeo Luna Victoria,node,5597245744,San Juan de Miraflores,10030552917,San Juan de Miraflores,46.232077997696415,True,285548.1,8655189.2
+educacion,school,Institución Educativa Jhon Fitzgerald Kennedy,node,5597245747,San Juan de Miraflores,7949063394,San Juan de Miraflores,8.489723935014966,True,285191.5,8654871.4
+educacion,school,Institución Educativa Virgen Maria,node,5597245748,San Juan de Miraflores,7949063439,San Juan de Miraflores,13.55221150214754,True,285116.0,8654733.6
+educacion,school,Institución Educativa Saco Oliveros,node,5597245796,San Juan de Miraflores,1273788417,San Juan de Miraflores,14.957633688051063,True,285005.8,8654929.6
+educacion,school,Institución Educativa Cientifico Alexander Diedrich Von Humboldt,node,5597245797,San Juan de Miraflores,1837272276,San Juan de Miraflores,21.747188580385863,True,284539.2,8654660.6
+educacion,school,Institución Educativa Cesar Canevaro,node,5597245864,San Juan de Miraflores,1273449195,San Juan de Miraflores,23.795613715146704,True,285817.8,8653985.4
+educacion,school,Institución Educativa Luz Y Esperanza,node,5597245866,San Juan de Miraflores,3758483592,San Juan de Miraflores,31.610499753256207,True,285644.9,8653713.4
+educacion,school,Institución Educativa Kinder Planet,node,5597245869,San Juan de Miraflores,5437725917,San Juan de Miraflores,15.541300063900154,True,285950.4,8653878.0
+educacion,school,Institución Educativa Prolog de San Juan de Miraflores II,node,5597245871,San Juan de Miraflores,1573382897,San Juan de Miraflores,36.82489194047157,True,285959.4,8653939.6
+educacion,school,Institución Educativa 7207 Mcal.ramon Castilla,node,5597245872,San Juan de Miraflores,1836119487,San Juan de Miraflores,43.20235391312059,True,285840.9,8653737.4
+educacion,school,Institución Educativa Nuestra Señora De La Asuncion De Sjm,node,5597250677,San Juan de Miraflores,4088751407,San Juan de Miraflores,83.69180508090794,True,284921.4,8654452.6
+educacion,school,Institución Educativa Niño Jesus De Maria Auxiliadora,node,5597250679,San Juan de Miraflores,310955728,San Juan de Miraflores,59.95704084778681,True,284607.1,8654159.5
+educacion,school,Institución Educativa Maria Auxiliadora,node,5597250687,San Juan de Miraflores,5435445475,San Juan de Miraflores,30.625291049734695,True,284508.1,8654414.3
+educacion,school,Institución Educativa Cerrito Azul,node,5597253976,San Juan de Miraflores,4059009974,San Juan de Miraflores,60.78476294432399,True,285447.5,8654072.1
+educacion,school,Institución Educativa Prolog de San Juan de Miraflores,node,5597253977,San Juan de Miraflores,4088751405,San Juan de Miraflores,26.26409047902837,True,285160.3,8654541.2
+educacion,school,Institución Educativa Lincoln,node,5597253980,San Juan de Miraflores,4355984527,San Juan de Miraflores,19.197636805205256,True,285367.2,8654530.9
+educacion,school,Institución Educativa Arco Iris Christian School,node,5597253985,San Juan de Miraflores,4356247032,San Juan de Miraflores,21.66981901403019,True,285520.2,8654468.6
+educacion,school,Institución Educativa Jesus Niño,node,5597253990,San Juan de Miraflores,1273967379,San Juan de Miraflores,13.4818436295964,True,285335.9,8654275.9
+educacion,school,Institución Educativa El Carmelino,node,5597238080,San Juan de Miraflores,1753032250,San Juan de Miraflores,7.7263704247186435,True,287006.1,8653739.1
+educacion,school,Institución Educativa Exprofesso,node,5597238078,San Juan de Miraflores,4291425315,San Juan de Miraflores,16.791958122059153,True,287137.7,8653548.9
+educacion,school,Institución Educativa El Mundo Del Divino Niño,node,5597224763,San Juan de Miraflores,7949063588,San Juan de Miraflores,33.888336058368026,True,286301.8,8654564.4
+educacion,school,Institución Educativa Emmanuel College,node,5597224766,San Juan de Miraflores,7949148476,San Juan de Miraflores,42.13110659227436,True,286443.6,8654740.3
+educacion,school,Institución Educativa Mi Segundo Hogar,node,5597224773,San Juan de Miraflores,4394276662,San Juan de Miraflores,61.755129689533554,True,286615.9,8654977.1
+educacion,school,Institución Educativa Mary's Children School,node,5597224774,San Juan de Miraflores,1273874337,San Juan de Miraflores,22.44104067844954,True,286399.3,8654883.1
+educacion,school,Institución Educativa Saco Oliveros Helicoidal,node,5597224775,San Juan de Miraflores,4394276658,San Juan de Miraflores,19.780517247491535,True,286528.6,8654981.4
+educacion,school,Institución Educativa Saco Oliveros Helicoidal I,node,5597224776,San Juan de Miraflores,7949148449,San Juan de Miraflores,29.17369261141714,True,286626.9,8655075.9
+educacion,school,Institución Educativa Lord Byron De San Juan,node,5597224777,San Juan de Miraflores,4470834358,San Juan de Miraflores,10.302036280913656,True,286484.6,8655094.0
+educacion,school,Institución Educativa Horst Kiehn,node,5597224779,San Juan de Miraflores,4356264918,San Juan de Miraflores,43.52386509926485,True,286311.1,8654569.5
+educacion,school,Institución Educativa Jose Abelardo Quiñones,node,5597224981,Buffer (≤ 300 m),1273736893,Fuera (buffer),16.098271976259937,True,287284.0,8654402.8
+educacion,school,Institución Educativa No. 6072,node,5597224983,Buffer (≤ 300 m),1273845792,Fuera (buffer),6.526195502280774,True,287164.8,8654335.5
+educacion,school,Institución Educativa Villa Jardin,node,5597224984,Buffer (≤ 300 m),1273963335,Fuera (buffer),44.67940207594,True,287350.1,8654303.4
+educacion,school,Institución Educativa Medalla Milagrosa,node,5597224987,Buffer (≤ 300 m),1273963335,Fuera (buffer),64.53625170524991,True,287363.7,8654288.8
+educacion,school,Institución Educativa Maria Exaltacion,node,5597224988,Buffer (≤ 300 m),1273736893,Fuera (buffer),33.39775635524835,True,287284.2,8654378.7
+educacion,school,Institución Educativa Ebenezer,node,5597225001,San Juan de Miraflores,1573383255,San Juan de Miraflores,22.11911673085879,True,286335.1,8654216.6
+educacion,school,Institución Educativa 6096 Antonio Raimondi,node,5597225002,San Juan de Miraflores,1573382780,San Juan de Miraflores,9.927409187926203,True,286218.2,8654193.4
+educacion,school,Institución Educativa Señor De Los Milagros,node,5597225004,San Juan de Miraflores,7285117388,San Juan de Miraflores,42.24657362639125,True,286393.4,8654153.7
+educacion,school,Institución Educativa Talentos Kids,node,5597225329,San Juan de Miraflores,10028335273,San Juan de Miraflores,32.94150415094261,True,284392.0,8652787.8
+educacion,school,Institución Educativa San Luis Ii,node,5597225331,San Juan de Miraflores,1273487554,San Juan de Miraflores,25.36709993003904,True,284416.4,8652741.1
+educacion,school,Institución Educativa Reverendo Hermano Gaston Maria,node,5597224764,San Juan de Miraflores,6986230249,San Juan de Miraflores,47.09197074882901,True,286265.5,8655246.2
+educacion,school,Institución Educativa Pamplona College,node,5597224759,San Juan de Miraflores,7949063588,San Juan de Miraflores,39.411277448795474,True,286306.9,8654566.8
+educacion,school,Institución Educativa Annie's School,node,5597224758,San Juan de Miraflores,1713766827,San Juan de Miraflores,11.62329698521048,True,286508.9,8654718.0
+educacion,school,Institución Educativa San Gabriel,node,5597220782,Buffer (≤ 300 m),1273848522,Fuera (buffer),9.898139385321892,True,286895.3,8655473.2
+educacion,school,Institución Educativa Madre Teresa De Calcuta,node,5597220797,Buffer (≤ 300 m),4446995413,Fuera (buffer),26.100773750407907,True,287081.3,8655341.9
+educacion,school,Institución Educativa Redimer Jesus,node,5597220799,Buffer (≤ 300 m),1273987149,Fuera (buffer),19.910601768031523,True,286928.9,8655350.3
+educacion,school,Institución Educativa Pequeños Genios,node,5597221692,San Juan de Miraflores,4356383511,San Juan de Miraflores,15.976183774340013,True,285786.5,8654822.0
+educacion,school,Institución Educativa Maria Madre Y Maestra,node,5597221693,San Juan de Miraflores,7949153730,San Juan de Miraflores,13.088409157148464,True,286048.2,8655135.0
+educacion,school,Institución Educativa Saco Oliveros De San Juan,node,5597221697,San Juan de Miraflores,4457367569,San Juan de Miraflores,9.22624570799487,True,285623.6,8655132.1
+educacion,school,Institución Educativa William Tyndale School,node,5597221698,San Juan de Miraflores,7949153777,San Juan de Miraflores,71.44311921668535,True,285961.5,8655223.1
+educacion,school,Institución Educativa San Juan,node,5597221699,San Juan de Miraflores,1573382666,San Juan de Miraflores,43.48874201797035,True,285985.3,8654909.1
+educacion,school,Institución Educativa No. 6078,node,5597221707,San Juan de Miraflores,7949153781,San Juan de Miraflores,15.993075805796044,True,285819.8,8655189.0
+educacion,school,Institución Educativa La Casa De Rosita,node,5597221710,San Juan de Miraflores,4457367409,San Juan de Miraflores,5.260759377290635,True,285857.3,8655112.2
+educacion,school,Institución Educativa Nicolas Copernico,node,5597221712,San Juan de Miraflores,1273537537,San Juan de Miraflores,28.643119727246006,True,285877.0,8654743.2
+educacion,school,Institución Educativa No. 7208,node,5597238076,San Juan de Miraflores,1273884742,San Juan de Miraflores,34.180370432228,True,287017.1,8653521.2
+educacion,school,Institución Educativa Alfred Marshall,node,5597231480,San Juan de Miraflores,1753910716,San Juan de Miraflores,29.33930814614786,True,284101.7,8654757.3
+educacion,school,Institución Educativa Santa Rosita De Quives,node,5597231485,San Juan de Miraflores,4197871335,San Juan de Miraflores,16.076690021358885,True,284264.1,8654489.8
+educacion,school,Institución Educativa Niño Jesus Divino,node,5597231486,San Juan de Miraflores,4198078056,San Juan de Miraflores,18.711339729469287,True,284247.2,8654109.9
+educacion,school,Institución Educativa Glorioso San Jose,node,5597235342,San Juan de Miraflores,1805763995,San Juan de Miraflores,73.92205526534279,True,284569.8,8653223.4
+educacion,school,Institución Educativa Dios Es Amor,node,5597235343,San Juan de Miraflores,4049158733,San Juan de Miraflores,22.98458174180304,True,285536.3,8653802.6
+educacion,school,Institución Educativa Santa Isabel Ann Seton,node,5597235345,San Juan de Miraflores,4580402692,San Juan de Miraflores,20.521331130895806,True,285589.2,8653730.1
+educacion,school,Institución Educativa Cientifica Del Norte,node,5597235347,San Juan de Miraflores,1805763991,San Juan de Miraflores,38.40883910146535,True,284568.4,8653415.6
+educacion,school,Institución Educativa Padre Iluminato,node,5597235350,San Juan de Miraflores,4282799327,San Juan de Miraflores,18.174521429786893,True,284961.3,8653534.3
+educacion,school,Institución Educativa Villa San Juan,node,5597235353,San Juan de Miraflores,1753984014,San Juan de Miraflores,27.056090119639325,True,285250.1,8654047.4
+educacion,school,Institución Educativa Redimer Jesus De Villa,node,5597225852,San Juan de Miraflores,1712297552,San Juan de Miraflores,26.785252541283445,True,286820.7,8655249.8
+educacion,school,Institución Educativa Alpamayo College,node,5597225856,Buffer (≤ 300 m),1715696620,Fuera (buffer),9.664094555738828,True,287214.0,8655066.1
+educacion,school,Institución Educativa 6033 Belen,node,5597225857,Buffer (≤ 300 m),4158570828,Fuera (buffer),18.391688470110584,True,287329.9,8655006.3
+educacion,school,Institución Educativa Señor De La Justicia Ii,node,5597230941,San Juan de Miraflores,4427912439,San Juan de Miraflores,9.296584666576981,True,287297.0,8652233.1
+educacion,school,Institución Educativa Señor De La Justicia,node,5597230943,San Juan de Miraflores,5721081784,San Juan de Miraflores,8.765638972069079,True,287300.0,8652155.7
+educacion,school,Institución Educativa Monseñor Pedro Laos Hurtado,node,5597231466,San Juan de Miraflores,4198078076,San Juan de Miraflores,30.13259238515646,True,284386.2,8654216.5
+educacion,school,Institución Educativa Latino,node,5597231467,San Juan de Miraflores,1273694299,San Juan de Miraflores,20.94099363717281,True,284358.2,8654984.6
+educacion,school,Institución Educativa Santa Rosa,node,5597231470,San Juan de Miraflores,4197871335,San Juan de Miraflores,14.504691166385754,True,284268.7,8654470.3
+educacion,school,Institución Educativa Euclides,node,5597270676,San Juan de Miraflores,6496710916,San Juan de Miraflores,50.68923993763809,True,285132.5,8656792.4
+mercados,marketplace,Mercado San Antonio,relation,9921673,Buffer (≤ 300 m),4105902222,Fuera (buffer),27.901729105379978,True,286985.4,8655329.7
+mercados,marketplace,,way,445344938,San Juan de Miraflores,1723414972,San Juan de Miraflores,24.842908736262192,True,287321.6,8652036.8
+mercados,marketplace,Mercado Modelo de Pamplona Alta,way,441998936,San Juan de Miraflores,10960862557,San Juan de Miraflores,35.24895519271137,True,286265.9,8657030.2
+mercados,marketplace,Mercado Sarita Colonia,way,442105197,San Juan de Miraflores,10960976164,San Juan de Miraflores,29.301025790714863,True,286688.0,8657263.1
+mercados,marketplace,Mercado Virgen del Carmen,way,442105203,San Juan de Miraflores,10039912357,San Juan de Miraflores,25.071332253477554,True,286904.5,8658279.2
+mercados,marketplace,Mercado 01 Imperial,way,442105209,San Juan de Miraflores,10700122395,San Juan de Miraflores,24.537109811098386,True,286694.8,8658143.2
+mercados,marketplace,Mercado Niño Jesús,way,442105226,San Juan de Miraflores,1273684563,San Juan de Miraflores,21.169073228565434,True,285883.4,8657648.1
+mercados,marketplace,Mercado Santa Rosa,way,442914950,Buffer (≤ 300 m),11029746505,Fuera (buffer),32.48767760064141,True,284349.4,8651618.6
+mercados,marketplace,Mercado Nuevo Progreso,way,442914965,San Juan de Miraflores,1809566020,San Juan de Miraflores,28.979541814617054,True,284850.1,8651888.8
+mercados,marketplace,Mercado Mariano Pastor Sevilla,way,441718406,San Juan de Miraflores,1273651633,San Juan de Miraflores,62.15469469027561,True,286390.1,8651946.0
+mercados,marketplace,Plaza Vea Express,way,446742869,Buffer (≤ 300 m),4077405143,Fuera (buffer),31.847002206462804,True,277028.9,8660875.9
+mercados,marketplace,Mercado América,way,447235352,San Juan de Miraflores,1753932095,San Juan de Miraflores,39.929808480752676,True,284921.7,8652417.4
+mercados,marketplace,Peruvian Market,way,439911087,Miraflores,12823430411,Miraflores,10.327447183563905,True,279332.1,8659805.0
+mercados,marketplace,Mercado Primero de Mayo,way,437631840,San Juan de Miraflores,7949063761,San Juan de Miraflores,50.32810307496813,True,285095.6,8654266.5
+mercados,supermarket,Vivanda,way,435335789,Miraflores,3245705964,Miraflores,34.16476598559941,True,279285.2,8658872.5
+mercados,supermarket,Organica Peru Market,way,436748491,Miraflores,10717734769,Miraflores,38.23738056317749,True,279443.8,8659677.5
+mercados,supermarket,Metro Atocongo,way,437316547,San Juan de Miraflores,7952798576,San Juan de Miraflores,33.305625133182076,True,284481.5,8656087.0
+mercados,marketplace,"Mercado ""Pamplona Baja""",way,437323829,San Juan de Miraflores,4452603086,San Juan de Miraflores,26.930366987805016,True,285167.9,8656245.5
+mercados,marketplace,"Mercado ""Señor de Muruhuay""",way,437357151,San Juan de Miraflores,4207804805,San Juan de Miraflores,42.82085950977933,True,285562.5,8655926.9
+mercados,marketplace,Mercado Cooperativa Plaza San Gabriel,way,437460197,Buffer (≤ 300 m),4105902221,Fuera (buffer),17.8197852677583,True,286917.8,8655390.8
+mercados,marketplace,Mercado Miguel Iglesias,way,437491771,San Juan de Miraflores,1753089162,San Juan de Miraflores,28.246824059352626,True,286502.3,8653409.6
+mercados,marketplace,Mercado Nuestros Héroes de la Guerra del Pacífico,way,437493942,San Juan de Miraflores,10028212177,San Juan de Miraflores,48.83496364657762,True,286761.0,8654516.3
+mercados,supermarket,Metro Express,way,437649833,Miraflores,3245705975,Miraflores,37.50058559820937,True,279457.1,8658831.8
+mercados,marketplace,Indian Market,way,439911083,Miraflores,4375873900,Miraflores,34.82126222835143,True,279286.1,8659784.5
+mercados,marketplace,Mercado Andrés Avelino Cáceres,way,437827302,San Juan de Miraflores,11027483029,San Juan de Miraflores,47.04462053413138,True,286739.3,8653002.2
+mercados,marketplace,Mercado Valle Sharon,way,437873284,San Juan de Miraflores,1573383085,San Juan de Miraflores,48.22944399973292,True,285891.3,8653756.8
+mercados,marketplace,Mercado Santa Rosa de 13 de Octubre,way,437880087,San Juan de Miraflores,1573382797,San Juan de Miraflores,16.400047952231077,True,285971.4,8653413.2
+mercados,marketplace,"Mercado ""Sagrado Corazón de Jesús""",way,437990719,San Juan de Miraflores,3758483577,San Juan de Miraflores,42.55817176625856,True,286179.8,8653192.3
+mercados,marketplace,Mercado El Arenal,way,438911084,San Juan de Miraflores,1273662915,San Juan de Miraflores,36.91663462306095,True,286114.7,8655664.5
+mercados,marketplace,Mercado María Parado de Bellido,way,450003152,San Juan de Miraflores,1727251705,San Juan de Miraflores,35.00052381286781,True,286549.9,8652450.2
+mercados,marketplace,Mercado Divino Niño,way,806580152,San Juan de Miraflores,10056610218,San Juan de Miraflores,15.712805820640067,True,287727.7,8658804.0
+mercados,supermarket,Mass,way,806617669,Buffer (≤ 300 m),4560922700,Fuera (buffer),21.524172674791828,True,280370.3,8659536.2
+mercados,supermarket,Tienda Mass,way,938159265,San Juan de Miraflores,1273837339,San Juan de Miraflores,34.25698481280908,True,284115.0,8654353.2
+mercados,marketplace,"Mercado ""Las Torres""",way,451419718,San Juan de Miraflores,1753089382,San Juan de Miraflores,17.905360713852584,True,286494.0,8652822.5
+mercados,marketplace,Mercado Malvinas,way,1183640816,San Juan de Miraflores,5467994388,San Juan de Miraflores,19.08192390406625,True,285359.7,8657419.2
+mercados,marketplace,Galería Los Sauces,way,1277744815,Buffer (≤ 300 m),11861491175,Fuera (buffer),7.4891175367648115,True,281969.7,8659242.6
+mercados,supermarket,Mass,way,1346231050,Miraflores,10813887775,Miraflores,33.43444341556955,True,277557.9,8659556.6
+mercados,marketplace,Centro Comercial Surquillo,way,1524483722,Buffer (≤ 300 m),13055435291,Fuera (buffer),28.148162478617795,True,279597.8,8660462.6
+mercados,marketplace,Mercado Nº 5 Leoncio Prado,way,654823323,Buffer (≤ 300 m),263927053,Fuera (buffer),59.03804364808533,True,280483.1,8659724.3
+mercados,marketplace,Mercado San Pedro y San Pablo de Villa San Luis,way,607813295,San Juan de Miraflores,9164327030,San Juan de Miraflores,25.76221363784686,True,285325.8,8657017.0
+mercados,marketplace,Mercado Modelo Villa San Luis,way,607812696,San Juan de Miraflores,3788362765,San Juan de Miraflores,37.723616211959296,True,285106.1,8657153.5
+mercados,supermarket,Mass,way,451616646,Buffer (≤ 300 m),4860099537,Fuera (buffer),21.77699607389299,True,287169.3,8655048.1
+mercados,marketplace,Mercado Unamarca,way,451794171,San Juan de Miraflores,9191036925,San Juan de Miraflores,35.80165052162053,True,284658.5,8652942.1
+mercados,marketplace,,way,459254546,Buffer (≤ 300 m),11579725692,Fuera (buffer),18.256783925411806,True,279686.1,8660269.5
+mercados,marketplace,Mercado José María Arguedas,way,486245879,San Juan de Miraflores,1752672047,San Juan de Miraflores,30.789618414894132,True,287229.9,8658061.6
+mercados,marketplace,Mercado Santa Rosa,way,486245881,San Juan de Miraflores,10824546231,San Juan de Miraflores,37.27191599938498,True,287365.5,8658347.5
+mercados,marketplace,Plaza Lima Sur,way,512413267,San Juan de Miraflores,1795359953,San Juan de Miraflores,20.98913323691384,True,285868.6,8656419.9
+mercados,marketplace,Galeria Comercial Nueva Generación,way,512413275,San Juan de Miraflores,1573127058,San Juan de Miraflores,45.78576736672945,True,285535.3,8656177.1
+mercados,marketplace,Pyme Plaza,way,512413289,San Juan de Miraflores,1410761963,San Juan de Miraflores,16.494766215585425,True,285414.1,8655731.6
+mercados,marketplace,Mercado Amazonas,way,551272245,San Juan de Miraflores,9750792895,San Juan de Miraflores,26.531191718938153,True,284595.8,8655922.7
+mercados,marketplace,Mercado El Nazareno,way,552398434,San Juan de Miraflores,4202662468,San Juan de Miraflores,24.924966997072907,True,286973.5,8657567.6
+mercados,supermarket,Tottus,way,565493831,San Juan de Miraflores,10898520544,San Juan de Miraflores,71.12889472819961,True,284455.2,8656348.6
+mercados,marketplace,Super Mercado Valle Sharon,way,566231184,San Juan de Miraflores,1273449554,San Juan de Miraflores,30.008698044015887,True,286045.9,8653844.7
+mercados,marketplace,Mercado 18 de Enero,way,581051807,Buffer (≤ 300 m),4198077746,San Juan de Miraflores,24.854286604001775,True,284097.4,8654422.6
+mercados,marketplace,Mercado Ciudad de Dios,way,584178252,San Juan de Miraflores,4351741268,San Juan de Miraflores,47.885342984819395,True,285527.4,8655801.5
+mercados,marketplace,Mercado Familias Unidas,way,424827882,San Juan de Miraflores,11009452797,San Juan de Miraflores,61.54189669238026,True,286162.3,8654896.9
+mercados,supermarket,Plaza Vea,way,289710243,Buffer (≤ 300 m),4332534032,Fuera (buffer),15.396422418869081,True,278065.2,8660730.1
+mercados,supermarket,Wong,way,338365656,Miraflores,6064808888,Miraflores,38.624241728491775,True,281114.3,8659196.9
+mercados,supermarket,Market Capon,way,332748280,Miraflores,3908702116,Miraflores,28.94371955882956,True,278872.9,8659484.7
+mercados,supermarket,Wong Óvalo Gutierrez,way,291982777,Miraflores,108236202,Miraflores,38.19383557947078,True,278392.1,8660439.9
+mercados,marketplace,Mercado N°2 de Surquillo,way,289487168,Buffer (≤ 300 m),13714626159,Fuera (buffer),1.132144011525472,True,279709.0,8660387.9
+mercados,marketplace,Inka Plaza,way,289487120,Miraflores,6086558958,Miraflores,36.520706939786514,True,279213.1,8659821.8
+mercados,supermarket,Metro Pedro Miota,way,249992830,San Juan de Miraflores,10037902187,San Juan de Miraflores,3.9604711164552286,True,284727.8,8654077.3
+mercados,marketplace,Mercado Nro 1 Surquillo,way,220048425,Buffer (≤ 300 m),4350306693,Fuera (buffer),27.81700472387816,True,279564.6,8659563.3
+mercados,supermarket,Plaza Vea,way,129822354,Miraflores,12816985567,Miraflores,33.68879305821958,True,279115.3,8660230.5
+mercados,supermarket,Wong Benavides,relation,8067071,Miraflores,10938888006,Miraflores,38.14478128179448,True,280420.3,8658726.0
+mercados,marketplace,Mercado 5 de Junio,way,371830802,Buffer (≤ 300 m),1723410049,San Juan de Miraflores,23.720616749087473,True,286763.0,8651447.2
+mercados,supermarket,Metro,way,400456676,San Juan de Miraflores,1412832160,San Juan de Miraflores,51.61964267223105,True,284816.8,8655839.8
+mercados,marketplace,"Mercado ""Santa Ursula""",way,371830817,San Juan de Miraflores,4394276741,San Juan de Miraflores,27.091802566447587,True,286262.6,8652472.2
+mercados,marketplace,Mercado Pacífico 1,way,420911442,San Juan de Miraflores,4208008968,San Juan de Miraflores,37.84810435243915,True,287115.2,8653233.6
+mercados,marketplace,Mercado Leoncio Prado,way,420426071,San Juan de Miraflores,1752642137,San Juan de Miraflores,39.379876183422354,True,286625.3,8657877.8
+mercados,marketplace,"Mercado ""Luis Castañeda""",way,420426038,San Juan de Miraflores,4396940204,San Juan de Miraflores,39.57340042900709,True,286098.3,8657091.7
+mercados,marketplace,Mercado Ollantay,way,420309461,San Juan de Miraflores,10960825339,San Juan de Miraflores,29.067184737045615,True,286318.2,8657495.9
+mercados,marketplace,Galería Los Robles,way,401836925,Buffer (≤ 300 m),4348882586,Fuera (buffer),28.800055107067873,True,282315.5,8658440.3
+mercados,supermarket,Plaza Vea,way,401836923,Buffer (≤ 300 m),13172100804,Fuera (buffer),24.960860606182635,True,282226.0,8658593.0
+mercados,supermarket,Metro,way,406050169,Miraflores,6129541028,Miraflores,31.381947720983998,True,279088.3,8659005.2
+mercados,marketplace,Mercado Las Flores de Villa,way,372285785,San Juan de Miraflores,1809566603,San Juan de Miraflores,29.87921462574602,True,285045.9,8651569.9
+mercados,marketplace,Mercado 5 de Diciembre,way,372289902,San Juan de Miraflores,1827925883,San Juan de Miraflores,27.458831746515596,True,285040.2,8651166.5
+mercados,supermarket,Flora & Fauna,node,4346194277,Miraflores,12830320541,Miraflores,14.498588239656215,True,277122.6,8660344.8
+mercados,supermarket,,node,4615219189,Miraflores,263636878,Fuera (buffer),8.696593243811567,True,280089.1,8657986.4
+mercados,marketplace,Bioferia de Miraflores,node,4597434109,Miraflores,263636153,Miraflores,11.089001376562257,True,279918.2,8658578.4
+mercados,supermarket,Tottus Express,node,2663483707,Miraflores,4370460484,Miraflores,19.846968832295136,True,279917.8,8658303.1
+mercados,marketplace,,node,4181097263,Miraflores,12811901097,Miraflores,44.3185878084977,True,277472.7,8659803.9
+mercados,marketplace,Mercado de Productores de San Isidro,node,4077383012,Buffer (≤ 300 m),2990348452,Fuera (buffer),33.0902340455888,True,276476.8,8660577.5
+mercados,supermarket,Tottus,node,4040883405,San Juan de Miraflores,5396224668,San Juan de Miraflores,24.998172987012847,True,284366.2,8655462.1
+mercados,supermarket,Tottus Atocongo,node,1800680808,San Juan de Miraflores,10898520544,San Juan de Miraflores,65.64486918422244,True,284456.4,8656343.0
+mercados,supermarket,Wong,node,6097026911,Miraflores,9335200770,Miraflores,2.2668193365824836,True,278933.2,8658092.4
+mercados,supermarket,Holi Supermercado,node,13088028410,Miraflores,10800999034,Miraflores,39.13275453966054,True,277330.7,8660130.5
+mercados,supermarket,Holi Supermercado,node,13088028409,Buffer (≤ 300 m),445250326,Fuera (buffer),28.938228707642473,True,281647.0,8659687.0
+mercados,supermarket,Mass,node,12856685508,Miraflores,133923937,Miraflores,31.777123721530117,True,278877.8,8658829.1
+mercados,supermarket,Tambo+,node,12852199489,Miraflores,12852199481,Miraflores,23.19726056671867,True,278341.2,8659737.6
+mercados,marketplace,Pesca Terminal,node,12810875601,Buffer (≤ 300 m),4350306693,Fuera (buffer),28.735997244221345,True,279607.6,8659535.6
+mercados,supermarket,Mass,node,12421884714,Miraflores,3245705936,Miraflores,19.306528417805705,True,278405.7,8659322.4
+mercados,supermarket,Ecovive,node,12063978910,Buffer (≤ 300 m),3952827985,Fuera (buffer),10.21748031194227,True,279917.9,8657411.5
+mercados,supermarket,Dollarcity,node,11612180669,Miraflores,6127177144,Miraflores,25.027775881346475,True,279095.2,8658873.3
+mercados,supermarket,Freshmart,node,11294367069,Miraflores,133917817,Miraflores,26.730003667706463,True,279693.0,8658238.0
+mercados,marketplace,Mercado San Martin,node,10280964909,Miraflores,108183459,Miraflores,36.87740287483197,True,279099.2,8658699.8
+mercados,marketplace,Municipal Market Miraflores,node,7668182019,Miraflores,262724727,Miraflores,29.117236971534833,True,276999.4,8660325.1
+mercados,marketplace,Mercado Elycielo,node,7287146504,San Juan de Miraflores,1573383230,San Juan de Miraflores,31.44545826683135,True,286650.2,8654220.2
+mercados,supermarket,Tottus,node,7091051785,Miraflores,10941592825,Miraflores,36.525835081141814,True,278274.1,8660238.7
+mercados,supermarket,Wong,node,6275372114,Miraflores,197667417,Miraflores,45.14022779490859,True,278834.6,8659042.1
+mercados,supermarket,Mara Biomarket & Cafe,node,6185047390,Miraflores,252115303,Miraflores,29.224143083737793,True,279407.8,8659083.8
