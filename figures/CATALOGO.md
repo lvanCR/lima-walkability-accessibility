@@ -71,3 +71,7 @@ Correspondencia con la lista mínima del plan (`docs/hito1/09_mapas_y_visualizac
 ### `plots/hito1_10_efecto_simplify.png`
 **Pregunta:** ¿Cómo cambia el conteo de nodos al simplificar el grafo?
 **Pie:** Efecto de `simplify=True` sobre los nodos de cada distrito (izquierda) y sobre la densidad de nodos por km² (derecha). La simplificación elimina el 63.8 % de los nodos de Miraflores y el 52.3 % de los de San Juan de Miraflores. Sin simplificar, Miraflores parece 29 % más denso que San Juan de Miraflores (1 150 frente a 889 nodos/km²); simplificado, las densidades son casi iguales (416 frente a 425). Datos del grafo antes de la limpieza.
+
+### `plots/hito1_11_pipeline.png`
+**Pregunta:** ¿Cómo se llega de los datos de OpenStreetMap a los resultados?
+**Pie:** Pipeline metodológico del Hito 1 en ocho etapas: datos de OSM, respaldo reproducible, limpieza y proyección, integración de POI, construcción de la red, análisis exploratorio, métricas y, pendiente para el Hito 2, isócronas y cobertura. Cada etapa indica el notebook que la ejecuta. Descripción en `docs/hito1/10_pipeline_metodologico.md`.
