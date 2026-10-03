@@ -1,0 +1,17 @@
+"""Parámetros globales del proyecto (completar al definir el área de estudio)."""
+from pathlib import Path
+
+SEED = 42
+ROOT = Path(__file__).resolve().parents[1]
+DATA_RAW = ROOT / "data" / "raw"
+DATA_INTERIM = ROOT / "data" / "interim"
+DATA_PROCESSED = ROOT / "data" / "processed"
+FIG_MAPS = ROOT / "figures" / "maps"
+FIG_PLOTS = ROOT / "figures" / "plots"
+
+PLACE = None            # TODO: distrito(s) / ciudad asignada
+NETWORK_TYPE = "walk"   # tema 4 exige red peatonal
+CRS_METRIC = "EPSG:32718"  # UTM 18S (Lima); ajustar si es otra ciudad
+WALK_SPEED_KMH = 4.8
+ISOCHRONE_MINUTES = [5, 10, 15]
+POI_TYPES = ["hospital", "school", "marketplace"]

@@ -1,0 +1,12 @@
+osmnx
+networkx
+geopandas
+numpy
+pandas
+matplotlib
+shapely
+rtree
+scipy
+contextily
+folium
+jupyter
