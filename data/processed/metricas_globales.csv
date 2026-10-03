@@ -1,0 +1,18 @@
+,Miraflores,San Juan de Miraflores
+nodos (componente gigante),3810.0,9103.0
+"aristas (calles, no dirigidas)",5587.0,13737.0
+grado medio ⟨k⟩,2.9328,3.0181
+grado máximo,7.0,6.0
+densidad del grafo 2E/(N(N−1)),0.0008,0.0003
+longitud de vía (km),260.4545,634.5937
+intersecciones (grado ≥ 3) / km²,326.0592,365.6499
+coef. de agrupamiento medio C,0.0474,0.0238
+transitividad,0.0579,0.0252
+C de un grafo aleatorio ⟨k⟩/N,0.0008,0.0003
+longitud media de camino (m),2171.9189,3553.1862
+diámetro (m),7562.3576,11484.837
+longitud media de camino (saltos),34.7883,48.8941
+diámetro (saltos),107.0,141.0
+"circuity, todos los pares",1.1837,1.2473
+"circuity, pares a ≤ 1 200 m en línea recta",1.2597,1.3681
+eficiencia global relativa,0.8039,0.7685

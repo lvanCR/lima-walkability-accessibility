@@ -17,10 +17,10 @@ def escala_y_norte(ax, longitud_m=1000, margen=0.04):
     texto = f"{longitud_m / 1000:g} km" if longitud_m >= 1000 else f"{longitud_m:g} m"
     ax.text(xi + longitud_m / 2, yi + 0.012 * alto, texto, ha="center", va="bottom", fontsize=9, zorder=10)
 
-    xn, yn = x1 - margen * ancho * 1.5, y1 - margen * alto * 3.2
-    ax.annotate("N", xy=(xn, yn + 0.09 * alto), xytext=(xn, yn), ha="center", va="bottom",
-                fontsize=11, fontweight="bold", zorder=10,
-                arrowprops=dict(arrowstyle="-|>", color="k", lw=1.5))
+    # Flecha de norte en coordenadas del eje (su tamaño no depende de la escala de los datos)
+    ax.annotate("N", xy=(0.93, 0.97), xytext=(0.93, 0.86), xycoords="axes fraction", textcoords="axes fraction",
+                ha="center", va="bottom", fontsize=11, fontweight="bold", zorder=10,
+                arrowprops=dict(arrowstyle="-|>", color="k", lw=1.5, shrinkA=2, shrinkB=0))
 
 
 def guardar(fig, ruta, dpi=200):
